@@ -22,7 +22,6 @@ def rename(directory):
                         os.rename(directory + '\\' + file, directory + '\\' + name_new)
                         break
                     except FileExistsError:
-                        print('v2.0')
                         break
         #если путь ведет к папке
         else:
