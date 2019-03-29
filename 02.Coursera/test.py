@@ -1,20 +1,13 @@
-inFile = open('input.txt', 'r', encoding='utf8')
-maxNum = inFile.readline()[:-1]
-maybeY = set()
-now = set()
-for i in range(1, int(maxNum) + 1):
-    maybeY.add(str(i))
-for line in inFile:
-    if line[:-1] == 'YES':
-        if maybeY == set():
-            maybeY = set(now)
-        else:
-            maybeY &= now
-    elif line[:-1] == 'NO':
-        maybeY -= now
-    elif line[:-1] == 'HELP':
-        break
-    now = set(line.split())
-a = list(maybeY - {' '})
-a = map(int, a)
-print(' '.join(map(str, sorted(a))))
+fin = open('input.txt', 'r', encoding='utf8')
+count = int(fin.readline()[:-1])
+lol = set()
+lul = set()
+
+
+for i in range(count - 1):
+    line = fin.readline()[:-1].split()
+    parent = line[0]
+    son = line[1]
+    lol.add(parent)
+    lul.add(son)
+print(lol & lul)
