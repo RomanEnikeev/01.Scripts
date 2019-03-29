@@ -21,9 +21,13 @@ for i in range(count - 1):
     parent = line[1]
 
 #    print(line)
-    inital.append(line)
+    if son not in inital:
+        inital.append(son)
+    if parent not in inital:
+        inital.append(parent)
     if parent not in dict:
         dict[parent] = []
+
     dict[parent].append(son)
     # if son not in dict:
     #     dict[son] = []
@@ -37,8 +41,6 @@ for parent in dict:
     if i == len(dict):
         father = parent
         print(father)
-
-print(family_member('Peter_II', 0, dict, father))
-
-print(dict)
-print(len(dict))
+for i in sorted(inital):
+    print(family_member(i, 0, dict, father))
+    print(i)
