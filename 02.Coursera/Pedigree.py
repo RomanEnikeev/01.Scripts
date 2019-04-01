@@ -40,7 +40,7 @@ for parent in dict:
             i += 1
     if i == len(dict):
         father = parent
-        print(father)
+result = list()
 for i in sorted(inital):
-    print(family_member(i, 0, dict, father))
-    print(i)
+    print(' '.join(map(str, [i, family_member(i, 0, dict, father)])))
+
