@@ -3,7 +3,7 @@ inFile = open('input.txt', 'r', encoding='utf8')
 # -*- coding: utf-8 -*-
 import os
 #print(dir(os))
-directory = r"C:\Users\r.enikeev\pythochik"
+directory = r"C:\Users\r.enikeev\Desktop\translate"
 path = os.path.abspath(directory)
 files_names = os.listdir(path)
 allNames = list()
@@ -11,13 +11,16 @@ allNames = list()
 for oName, iName in zip(outFile, inFile):
     now = [oName[:-1], iName[:-1]]
     allNames.append(now)
-print(allNames)
-
+#print(allNames)
+lost = list()
 for name_now in files_names:
     for i in allNames:
         if i[1] == name_now:
-            print(i)
+            #print(i)
             name_new = i[0]
             os.rename(directory + '\\' + name_now, directory + '\\' + name_new)
+            allNames.remove(i)
             break
 
+
+print(allNames)
