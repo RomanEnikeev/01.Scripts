@@ -32,6 +32,7 @@ create = Button(text="Создать", command=root.destroy)
 
 variable = StringVar(root)
 variable.set(list(files.keys())[0]) # default value
+print(variable.set())
 w = OptionMenu(root, variable, *list(files.keys()))
 
 
