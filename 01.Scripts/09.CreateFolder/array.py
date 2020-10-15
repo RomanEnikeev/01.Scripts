@@ -72,10 +72,12 @@ root.geometry("400x300")
 
 entry = Entry(width=20)                                     # текстовое поле ввода
 create = Button(text="Создать", command=root.destroy)       # кнопка создать
+variable = StringVar(root)                                  # выскакивающее меню
+variable.set(list(shablons.keys())[0])                      # default value
+cvar1 = BooleanVar()                                        # флажок
+cvar1.set(0)
+c1 = Checkbutton(text="First", variable=cvar1, onvalue=1, offvalue=0)
 
-# выскакивающее меню
-variable = StringVar(root)
-variable.set(list(shablons.keys())[0]) # default value
 
 w = OptionMenu(root, variable, *list(shablons.keys()))
 
@@ -95,10 +97,14 @@ create.bind('<Button-1>', entrydirectory)
 # path = entryDirectory
 
 
+
+print(cvar1.get())
+
+
 entry.pack()
 create.pack()
 w.pack()
-
+c1.pack() #anchor=W
 root.mainloop()
 
 
@@ -130,6 +136,8 @@ else:
 
 
 print(directory_of_folder)
-copy(source_ways, path)
+print(cvar1.get())
+if cvar1.get():
+    copy(source_ways, path)
 
 
