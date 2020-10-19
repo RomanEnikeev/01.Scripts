@@ -21,17 +21,17 @@ shablons = {
 # }
 
 def copy(directory, new_directory):
-    #нормализованный путь к файлам
+    # нормализованный путь к файлам
     directory = os.path.abspath(directory)
 
-    #файлы в папке
+    # файлы в папке
     object_in_folder = os.listdir(directory)
 
-    #перебираем объекты и проверяем: файл или папка
+    # перебираем объекты и проверяем: файл или папка
     for object in object_in_folder:
         way = directory + '\\' + object
 
-        #если путь ведет к файлу:
+        # если путь ведет к файлу:
         if os.path.isfile(way) == True:
             file = object
             try:
@@ -67,7 +67,7 @@ print(os.listdir(source_ways))
 
 root = Tk()
 root.title("Графическая программа на Python")
-root.geometry("400x300")
+root.geometry("300x300")
 
 
 entry = Entry(width=20)                                     # текстовое поле ввода
@@ -76,7 +76,7 @@ variable = StringVar(root)                                  # выскакива
 variable.set(list(shablons.keys())[0])                      # default value
 cvar1 = BooleanVar()                                        # флажок
 cvar1.set(0)
-c1 = Checkbutton(text="First", variable=cvar1, onvalue=1, offvalue=0)
+flag = Checkbutton(text="Копировать шаблоны", variable=cvar1, onvalue=1, offvalue=0)
 
 
 w = OptionMenu(root, variable, *list(shablons.keys()))
@@ -102,10 +102,13 @@ print(cvar1.get())
 
 
 entry.pack()
-create.pack()
+
 w.pack()
-c1.pack() #anchor=W
+flag.place(relx=0.5, rely=0.65) #anchor=W
+create.place(relx=0.7, rely=0.8)
+# create.pack()
 root.mainloop()
+
 
 
 # print(list(files.keys()))
