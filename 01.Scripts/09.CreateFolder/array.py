@@ -67,7 +67,7 @@ print(os.listdir(source_ways))
 
 root = Tk()
 root.title("Графическая программа на Python")
-root.geometry("300x300")
+root.geometry("350x300")
 
 
 entry = Entry(width=20)                                     # текстовое поле ввода
@@ -80,7 +80,7 @@ flag = Checkbutton(text="Копировать шаблоны", variable=cvar1, o
 
 
 w = OptionMenu(root, variable, *list(shablons.keys()))
-
+print(w)
 
 def entrydirectory(event):
     directory = entry.get()
@@ -101,11 +101,21 @@ create.bind('<Button-1>', entrydirectory)
 print(cvar1.get())
 
 
-entry.pack()
+# entry.place()
 
-w.pack()
-flag.place(relx=0.5, rely=0.65) #anchor=W
-create.place(relx=0.7, rely=0.8)
+# w.place(relx=0.5, rely=0.5)
+# flag.place(relx=0.5, rely=0.65) #anchor=W
+# create.place(relx=0.7, rely=0.8)
+
+
+Label(text='Путь:').grid(row=1, column=0, sticky=W, padx=10, pady=10)
+Label(text='Тип работ:').grid(row=2, column=0, sticky=W, padx=10, pady=10)
+entry.grid(row=1, column=1, sticky=W+E, padx=10, pady=10)
+w.grid(row=2, column=1, padx=10, sticky=W+E, pady=10)        # выскакивающее меню
+flag.grid(row=3, column=1, padx=10, pady=10) #anchor=W
+
+create.grid(row=4, column=2, padx=10, pady=50)
+
 # create.pack()
 root.mainloop()
 
