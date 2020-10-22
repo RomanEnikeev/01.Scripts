@@ -1,0 +1,125 @@
+﻿Количество фаз;a2d06669-a727-4e50-bcba-d7bb905d3372;NumberOfPoles;ADSK_Количество фаз
+Ед. измерения;763aa9a4-e841-48f9-bcf5-2e64763184aa;Text;ADSK_Единица измерения
+Единица измерения;9e75a863-eed0-4d52-a37d-49b818375f45;Text;ADSK_Единица измерения
+Классификация нагрузок;799c12d4-7e40-4ac2-9d19-e2e9a61923ac;LoadClassification;ADSK_Классификация нагрузок
+n_фаз;0257a4b0-6a8d-42c3-bae6-334ab79a9818;Integer;ADSK_Количество фаз
+Полная мощность;58d2d5dc-d311-473c-ab3c-e1ab1bcfb155;ElectricalApparentPower;ADSK_Номинальная мощность
+Завод изготовитель;2157a058-099a-4920-88f3-e22f4e3f9533;Text;ADSK_Завод-изготовитель
+Марка;53829981-42ec-41e8-a0ed-86168423e15a;Text;ADSK_Марка
+Завод-изготовитель;cfa857f6-031c-447b-805f-dc930a742006;Text;ADSK_Завод-изготовитель
+Код оборудования;73feee87-a84f-4417-ab1d-d6f9dc43ee5f;Text;ADSK_Код изделия
+Номинальная мощность;3c33d59e-e733-4337-b057-eca5aa202a92;ElectricalPower;ADSK_Номинальная мощность
+Напряжение;aafe59a3-9686-4ad1-9eca-2ba364db204b;ElectricalPotential;ADSK_Напряжение
+Коэффициент мощности;82e853e1-81a0-4a15-adf8-2458a891ad58;Number;ADSK_Коэффициент мощности
+Наименование;b6ce56bd-ea0c-4b2d-b421-34171d597a24;Text;ADSK_Наименование
+Ток;3b3d5c18-f863-4d88-93dd-ed3f0d8a6a72;ElectricalCurrent;ADSK_Ток
+Тепловая мощность;58b00224-6c07-487f-b66f-9bce853ab507;HVACHeatingLoad;ADSK_Тепловая мощность
+GP_Наименование;d4ae8837-57f3-462d-993e-2b9476a5db01;Text;ADSK_Наименование
+GP_Обозначение;6e21897e-fedd-4e81-8e15-28428d291702;Text;ADSK_Обозначение
+GP_Примечание;be30076a-bfd8-4bba-9018-d38b6f3dc659;Text;ADSK_Примечание
+GP_Код оборудования;b3f94b47-f639-4716-8d77-f8931521204b;Text;ADSK_Код изделия
+GP_Единица измерения;a0398f1e-6e3f-44aa-9074-6d9e399c9363;Text;ADSK_Единица измерения
+GP_Завод изготовитель;8a1a5121-444e-420e-b0e1-65095d5e18f0;Text;ADSK_Завод-изготовитель
+GP_Позиция;3462553d-5bf9-4c0c-b7f9-7505cc9e14fd;Text;ADSK_Позиция
+Материал;939e8396-2b37-49e7-8aa9-f571cdc86dd4;Material;ADSK_Материал
+PF_Угол;5bceeb6e-a0d2-43f2-94a6-7081d89be3b3;Angle;ADSK_Размер_УголПоворота
+Позиция;8ea5cc16-2481-4d2c-a107-6827023f3aec;Text;ADSK_Позиция
+короткое наименование;15aebb4c-a969-4b36-a9cf-badc61ebf7c4;Text;ADSK_Наименование краткое
+ОВК_Наименование;1dc20031-0449-4838-9665-8a31e1d4f27e;Text;ADSK_Наименование вытяжной системы
+АПТ_Наименование;41e04ddc-ada9-40f0-89c0-06cee66fae03;Text;ADSK_Наименование
+ЭМ_Наименование;b41bca75-7d83-494f-985d-aafe01c707ab;Text;ADSK_Наименование
+ТС_Наименование;779dfa93-c914-4462-a33b-b03ae8a4843f;Text;ADSK_Наименование
+О_Масса;32989501-0d17-4916-8777-da950841c6d7;Number;ADSK_Масса
+О_Примечание;a85b7661-26b0-412f-979c-66af80b4b2c3;Text;ADSK_Примечание
+О_Комплект;8dd021be-382d-4776-afd4-75996e351de3;Text;ADSK_Комплект
+О_Обозначение;9c98831b-9450-412d-b072-7d69b39f4029;Text;ADSK_Обозначение
+О_Наименование;e6e0f5cd-3e26-485b-9342-23882b20eb43;Text;ADSK_Наименование
+О_КодИзделия;2fd9e8cb-84f3-4297-b8b8-75f444e124ed;Text;ADSK_Код изделия
+И_ЗаводИзготовитель;a8cdbf7b-d60a-485e-a520-447d2055f351;Text;ADSK_Завод-изготовитель
+О_Этаж;9eabf56c-a6cd-4b5c-a9d0-e9223e19ea3f;Text;ADSK_Этаж
+О_ЕдиницыИзмерения;4289cb19-9517-45de-9c02-5a74ebf5c86d;Text;ADSK_Единица измерения
+О_Зона;c78f0a7d-b68b-4d21-a247-1c8c6ced8bc5;Text;ADSK_Зона
+И_КодОборудования;641e9d2c-3cf9-4192-9a14-1744705f92b5;Text;ADSK_Код изделия
+productcode;69bbe648-b1ac-419c-aec7-de9be9dffd6b;Text;ADSK_Код изделия
+О_Позиция;6c6db2df-e250-4496-8d1b-a46e4c220b5f;Currency;ADSK_Позиция
+О_Марка;2204049c-d557-4dfc-8d70-13f19715e46d;Text;ADSK_Марка
+Р_Длина;156ea223-db83-41d1-952e-84144083333d;Length;ADSK_Размер_Длина
+Р_Ширина;dfa627a1-0bec-4154-abaa-f20b543d473f;Length;ADSK_Размер_Ширина
+Р_Высота;9614f10f-68df-4246-b9bb-abc941b2884b;Length;ADSK_Размер_Высота
+О_Материал;8b5e61a2-b091-491c-8092-0b01a55d4f44;Material;ADSK_Материал
+Air Pressure Drop;a392f3fd-4cab-4f19-a5f5-a08881c276e0;HVACPressure;ADSK_Потеря давления воздуха
+Height;30c886a7-fa37-45eb-90c6-fb1befd5a647;Length;ADSK_Размер_Высота
+Material;501c6d33-4756-4e8a-b114-024beae372ab;Text;ADSK_Масса_Текст
+И_В_РасходВоздуха;9b7d541b-cc04-4e41-949d-a0d6ed778a25;HVACAirflow;ADSK_Расход воздуха
+Р_Площадь;e47e8e26-7687-4048-93ee-3b9ca14d371e;Area;ADSK_Площадь квартиры
+Р_Угол;f5af5233-98fe-4f24-8366-8d17ee46c78e;Angle;ADSK_Размер_УголПоворота
+ЭМ_Масса;0b88da0b-a936-4914-9a87-7c063b921981;Number;ADSK_Масса
+ЭМ_Этаж;7d43aa96-4c0c-4c26-9fdd-924ff3eda3f1;Text;ADSK_Этаж
+О_Позиция;ae8ff999-1f22-4ed7-ad33-61503d85f0f4;Text;ADSK_Позиция
+И_В_РасходВоздухаВытяжной;09a2cc33-19c8-4122-b344-37c037ea16a1;HVACAirflow;ADSK_Расход воздуха вытяжной
+И_РасходЖидкости;8748b0ed-3053-4b02-a87b-8d31dbdde981;PipingFlow;ADSK_Расход жидкости
+И_В_РасходВоздухаПриточный;5ea9d045-d650-4f7e-8eb1-8987b04f99f7;HVACAirflow;ADSK_Расход воздуха приточный
+И_Э_НоминальнаяМощность;b4d13aad-0763-4481-b015-63137342d077;ElectricalPower;ADSK_Номинальная мощность
+О_URL документации изделия;bddc75f4-8e27-4afc-add0-de7358bbf6d3;URL;ADSK_URL документации изделия
+И_Э_Напряжение;be29221e-5b74-4a61-a253-4eb5f3b532d9;ElectricalPotential;ADSK_Напряжение
+И_Э_Ток;7e243149-8b16-4c8b-8161-cd7780048c99;ElectricalCurrent;ADSK_Ток
+И_Т_ПотеряДавленияЖидкости;ca816cbc-4f60-47c8-b0fe-14eddcc32b16;PipingPressure;ADSK_Потеря давления жидкости
+И_Э_ПолнаяМощность;7bae0e4a-a125-4818-973a-00fd56bf853d;ElectricalApparentPower;ADSK_Полная мощность
+Р_Диаметр;9b679ab7-ea2e-49ce-90ab-0549d5aa36ff;Length;ADSK_Размер_Диаметр
+И_В_ТепловаяМощность;be7d2b1b-1916-428f-87f0-d9ee8d4f1efe;HVACPower;ADSK_Тепловая мощность
+И_Э_КоличествоФаз;d182b385-9e45-4e8b-b8da-725396848493;NumberOfPoles;ADSK_Количество фаз
+ADSK_Потеря давления воздуха;e6505622-4f7e-4529-a638-b368f37e9ecc;HVACPressure;ADSK_Потеря давления воздуха
+И_Т_РасходТеплоносителя;cd095b4d-1973-4682-8f03-f187d07b890b;PipingFlow;ADSK_Расход теплоносителя
+Р_Длина;748a2515-4cc9-4b74-9a69-339a8d65a212;Length;ADSK_Размер_Длина
+И_РасходХолодоносителя;1b29d3e6-4799-44a4-8c1f-48c38eba9cd6;PipingFlow;ADSK_Расход холодоносителя
+Product name;880f6fd9-b48d-48f2-8eae-2d6b07e738be;Text;ADSK_Наименование
+И_Т_РасходХв;0afc7eb9-a8be-48dd-b1a1-272c020fbfdf;PipingFlow;ADSK_Расход ХВ
+Length;1d07291a-48d5-494a-802e-0401bbfb154d;Length;ADSK_Размер_Длина
+Артикул;c020c860-2241-459f-b2f5-ad0cdc6b2b2e;Text;ADSK_Код изделия
+Примечание;4e70eb93-e771-4927-905b-ca64bab0ddb5;Text;ADSK_Примечание
+Наименование;ff063a3c-7d58-4f30-95b4-d174a538bf0d;Text;ADSK_Наименование
+Масса;74963029-fed9-4a7c-8825-c9d457cbe9e8;Mass;ADSK_Масса
+И_Э_КлассификацияНагрузок;a3413727-1213-401f-8ff2-880522a42b91;LoadClassification;ADSK_Классификация нагрузок
+ADSK_Количество фаз числовое;70b900b9-87fc-44bf-8c10-35fca4e76ed7;Integer;ADSK_Количество фаз числовое
+ADSK_Коэффициент мощности;e3c1a4b0-78c8-49f5-b3c7-01869252c30e;Number;ADSK_Коэффициент мощности
+ADSK_Масса_Текст;a8832df7-0302-4a63-a6e1-47a01632b987;Text;ADSK_Масса_Текст
+ADSK_Наименование краткое;f194bf60-b880-4217-b793-1e0c30dda5e9;Text;ADSK_Наименование краткое
+ADSK_Размер_Ширина;8f2e4f93-9472-4941-a65d-0ac468fd6a5d;Length;ADSK_Размер_Ширина
+Weight;3d028fd0-b1d7-460e-a4a8-35d5d9590a90;Mass;ADSK_Размер_Ширина
+Angle;4942cc5a-0098-4bf9-9c32-135a9b0d4a36;Angle;ADSK_Размер_УголПоворота
+Product code;8bd0bb65-d8c9-4336-9b3b-13b1c85a50d3;Integer;ADSK_Код изделия
+Product Name;5102b873-5fab-45b7-a2d0-f83ddee8d345;Text;ADSK_Наименование
+Product Page URL;c5f25d97-91ad-48c8-96e2-99eac6fbb3f1;URL;ADSK_URL страницы изделия
+Product data url;0101d8bc-35b7-4410-a3e2-10d7ab0e8c40;URL;ADSK_URL страницы изделия
+Product Material;22a40417-e235-4bfd-84d0-4c0490abc373;Material;ADSK_Материал
+Amperage;7b628836-f7ed-417f-9a76-f5dbc0471966;ElectricalCurrent;ADSK_Ток
+Примечания;c3a92f4c-a74d-4c9e-8a27-369811a97586;Text;ADSK_Примечание
+Единицы измерения;27c9599d-44a0-4771-961b-38b8fe890186;Text;ADSK_Единица измерения
+ADSK_Размер_Высота;da753fe3-ecfa-465b-9a2c-02f55d0c2ff1;Length;ADSK_Размер_Высота
+ADSK_Размер_Глубина;14e630a8-bc4f-4556-9094-647e8f323f08;Length;ADSK_Размер_Глубина
+ADSK_Размер_Радиус;f49bf488-e8a4-4517-ac59-e5ea2093350d;Length;ADSK_Размер_Радиус
+ADSK_Размер_Толщина;293f055d-6939-4611-87b7-9a50d0c1f50e;Length;ADSK_Размер_Толщина
+Width;106f2a8b-3006-4864-aaf0-d07ea744b6f1;Length;ADSK_Размер_Ширина
+Width;8519c1cf-831f-4680-9177-29283900e20a;Length;ADSK_Размер_Ширина
+Height;84192c73-7357-4d60-b1c5-64842b09e596;Length;ADSK_Размер_Высота
+Product data url;0d72a99b-a015-4c23-9ceb-1c8bbff1995a;URL;ADSK_URL страницы изделия
+Width;42d4cd54-d2fd-4ea0-b9e4-43c2c4c50710;Length;ADSK_Размер_Ширина
+Height;f2134b97-8fbd-4533-ae80-5f835c8e317c;Length;ADSK_Размер_Высота
+Раздел проектирования;3d13c3af-ccaa-4739-8107-44d79e9a7b54;Text;ADSK_Штамп Раздел проекта
+Вес устройства;ec527448-6a9c-4158-ba4a-e8ae6fc55e28;Text;ADSK_Масса_Текст
+Артикул;faf841dd-79b5-4180-a141-7a23315ef7a7;Text;ADSK_Код изделия
+URL разработчика;2c2ac483-268f-478a-a3e0-8a22e4dd842d;Text;ADSK_URL страницы изделия
+Угол;9253596b-f379-484b-a251-c47421e7def8;Angle;ADSK_Размер_УголПоворота
+Материал;edd1476e-bb2b-456e-9420-491ac6e9420a;Material;ADSK_Материал
+Масса;c8704442-640d-4407-98f8-91141259e3f0;Text;ADSK_Масса_Текст
+Масса;116dc687-fe58-415b-829c-66fdaee0744f;Text;ADSK_Масса_Текст
+GP_Масса;819be43b-ab72-442c-9bdb-067bf2086794;Number;ADSK_Масса
+Масса единицы, кг;c3db8d3f-ba6e-44f2-85d1-b9d333da070c;Number;ADSK_Масса
+Material;57208242-c83b-4707-9869-c9bbddfd9e23;Material;ADSK_Материал
+Артикул;6dc9b1d7-069c-44a3-9589-64d8bdf72495;Length;ADSK_Код изделия
+Высота;05afd2e9-d142-4d28-b708-43e629dec23a;Length;ADSK_Размер_Высота
+Ширина;5bee8e1a-2928-4464-ad47-2f05d24d8505;Length;ADSK_Размер_Ширина
+Номер помещения;d0efb795-ce89-4a3c-a7f7-191acf6e5504;Text;ADSK_Номер помещения квартиры
+Мощность;6f6a6a94-13ad-4946-ba66-fac6566f0033;HVACPower;ADSK_Тепловая мощность
+Масса единицы, кг;9e2f55f6-15fe-4892-af03-4a0dc62bd468;Text;ADSK_Масса
+Код оборудования, изделия, материала;bb4022c6-e79b-4540-959e-f9f851ebb1f8;Text;ADSK_Код изделия

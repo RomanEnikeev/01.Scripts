@@ -1,0 +1,246 @@
+﻿ADSK_Единица измерения;TEXT
+ADSK_Завод-изготовитель;TEXT
+ADSK_Зона;TEXT
+ADSK_Код изделия;TEXT
+ADSK_Марка;TEXT
+ADSK_Масса;NUMBER
+ADSK_Масса_Текст;TEXT
+ADSK_Материал обозначение;TEXT
+ADSK_Материал наименование;TEXT
+ADSK_Наименование;TEXT
+ADSK_Наименование краткое;TEXT
+ADSK_Обозначение;TEXT
+ADSK_Позиция;TEXT
+ADSK_Предел огнестойкости;TEXT
+ADSK_Примечание;TEXT
+ADSK_Этаж;TEXT
+ADSK_URL документации изделия;URL
+ADSK_URL страницы изделия;URL
+ADSK_Количество;NUMBER
+ADSK_Индекс квартиры;TEXT
+ADSK_Количество комнат;INTEGER
+ADSK_Коэффициент площади;NUMBER
+ADSK_Номер здания;TEXT
+ADSK_Номер квартиры;TEXT
+ADSK_Номер помещения квартиры;TEXT
+ADSK_Номер секции;TEXT
+ADSK_Площадь квартиры;AREA
+ADSK_Площадь квартиры жилая;AREA
+ADSK_Площадь квартиры общая;AREA
+ADSK_Площадь с коэффициентом;AREA
+ADSK_Тип квартиры;TEXT
+ADSK_Тип помещения;INTEGER
+ADSK_Категория помещения;TEXT
+ADSK_Позиция отделки;TEXT
+ADSK_Наименование и номер цвета;TEXT
+ADSK_Наименование элемента фасада;TEXT
+ADSK_Арматура гнутая;YESNO
+ADSK_Арматура семейством;YESNO
+ADSK_Арматура эскиз;IMAGE
+ADSK_Группа конструкций;INTEGER
+ADSK_Длина балки аналитическая;LENGTH
+ADSK_Длина балки истинная;LENGTH
+ADSK_Класс арматуры;INTEGER
+ADSK_Марка изделия;TEXT
+ADSK_Марка конструкции;TEXT
+ADSK_Масса погонного метра;NUMBER
+ADSK_Наименование профиля;TEXT
+ADSK_Номер листа элемента;TEXT
+ADSK_Способ подсчета массы;INTEGER
+ADSK_Тип элемента КЖ;INTEGER
+ADSK_Тип элемента КМ;INTEGER
+ADSK_Эскиз сечения;IMAGE
+ADSK_Этап возведения;INTEGER
+ADSK_Классификация нагрузок;LOADCLASSIFICATION
+ADSK_Количество фаз;NOOFPOLES
+ADSK_Количество фаз числовое;INTEGER
+ADSK_Коэффициент мощности;NUMBER
+ADSK_Напряжение;ELECTRICAL_POTENTIAL
+ADSK_Номинальная мощность;ELECTRICAL_POWER
+ADSK_Полная мощность;ELECTRICAL_APPARENT_POWER
+ADSK_Потеря давления воздуха;HVAC_PRESSURE
+ADSK_Потеря давления жидкости;PIPING_PRESSURE
+ADSK_Расход воздуха;HVAC_AIR_FLOW
+ADSK_Расход воздуха вытяжной;HVAC_AIR_FLOW
+ADSK_Расход воздуха приточный;HVAC_AIR_FLOW
+ADSK_Расход ГВ;PIPING_FLOW
+ADSK_Расход канализационных стоков;PIPING_FLOW
+ADSK_Расход теплоносителя;PIPING_FLOW
+ADSK_Расход ХВ;PIPING_FLOW
+ADSK_Расход холодоносителя;PIPING_FLOW
+ADSK_Расход жидкости;PIPING_FLOW
+ADSK_Свободный напор воздуха;HVAC_PRESSURE
+ADSK_Свободный напор жидкости;PIPING_PRESSURE
+ADSK_Тепловая мощность;HVAC_POWER
+ADSK_Ток;ELECTRICAL_CURRENT
+ADSK_Толщина стенки;LENGTH
+ADSK_Холодильная мощность;HVAC_COOLING_LOAD
+ADSK_Владелец вида;TEXT
+ADSK_Назначение вида;TEXT
+ADSK_Норма расхода;NUMBER
+ADSK_Материал тип подсчета;INTEGER
+ADSK_Предел огнестойкости экземпляра;TEXT
+ADSK_Группирование;TEXT
+ADSK_Комплект;TEXT
+ADSK_Материал;MATERIAL
+ADSK_Версия семейства;TEXT
+ADSK_Версия Revit;TEXT
+ADSK_Примечание к виду;TEXT
+ADSK_Отверстие_Высота;LENGTH
+ADSK_Отверстие_Глубина;LENGTH
+ADSK_Отверстие_Отметка от нуля;LENGTH
+ADSK_Отверстие_Отметка от этажа;LENGTH
+ADSK_Отверстие_Отметка этажа;LENGTH
+ADSK_Отверстие_Функция;TEXT
+ADSK_Отверстие_Ширина;LENGTH
+ADSK_Откосы Глубина;LENGTH
+ADSK_Открывание;TEXT
+ADSK_Площадь проемов;AREA
+ADSK_Толщина стены;LENGTH
+ADSK_Комплект чертежей;TEXT
+ADSK_Подрезка длина;LENGTH
+ADSK_Подрезка ширина;LENGTH
+ADSK_Категория проема;TEXT
+ADSK_Текст отметка расположения;TEXT
+ADSK_Элемент круглый;YESNO
+ADSK_Наименование_Префикс;TEXT
+ADSK_Наименование_Текст1;TEXT
+ADSK_Размер_В погонных метрах;YESNO
+ADSK_Размер_Смещение от уровня;LENGTH
+ADSK_Размер_Высота базового уровня;LENGTH
+ADSK_Размер_Отметка расположения;LENGTH
+ADSK_Количество позиций;INTEGER
+ADSK_Позиция ведомость элементов;TEXT
+ADSK_Усилие_M;TEXT
+ADSK_Усилие_N;TEXT
+ADSK_Усилие_Q;TEXT
+ADSK_Код металлопроката;NUMBER
+ADSK_Шаг элементов;LENGTH
+ADSK_Незаданный параметр;YESNO
+ADSK_Форма отгибами;YESNO
+ADSK_Форма арматуры;INTEGER
+ADSK_Деталь_Префикс;TEXT
+ADSK_Длина арматуры;REINFORCEMENT_LENGTH
+ADSK_Длина арматуры по детали;REINFORCEMENT_LENGTH
+ADSK_Диаметр арматуры;BAR_DIAMETER
+ADSK_A;REINFORCEMENT_LENGTH
+ADSK_B;REINFORCEMENT_LENGTH
+ADSK_C;REINFORCEMENT_LENGTH
+ADSK_D;REINFORCEMENT_LENGTH
+ADSK_E;REINFORCEMENT_LENGTH
+ADSK_F;REINFORCEMENT_LENGTH
+ADSK_G;REINFORCEMENT_LENGTH
+ADSK_Q;REINFORCEMENT_LENGTH
+ADSK_R;REINFORCEMENT_LENGTH
+ADSK_x;REINFORCEMENT_LENGTH
+ADSK_x';REINFORCEMENT_LENGTH
+ADSK_Диаметр оправки арматуры;BAR_DIAMETER
+ADSK_A_bent;REINFORCEMENT_LENGTH
+ADSK_B_bent;REINFORCEMENT_LENGTH
+ADSK_C_bent;REINFORCEMENT_LENGTH
+ADSK_R_bent;REINFORCEMENT_LENGTH
+ADSK_α_Angle;ANGLE
+ADSK_β_Angle;ANGLE
+ADSK_Масса на единицу длины;MASS_PER_UNIT_LENGTH
+ADSK_Главная деталь изделия;YESNO
+ADSK_Главная деталь конструкции;YESNO
+ADSK_Каркас;YESNO
+ADSK_Пространственный каркас;YESNO
+ADSK_Метка основы;TEXT
+ADSK_Категория основы;TEXT
+ADSK_Масса элемента;MASS
+ADSK_Основной материал элемента;TEXT
+ADSK_Выступ метиза;LENGTH
+ADSK_Длина резьбы метиза;LENGTH
+ADSK_Марка метиза;TEXT
+ADSK_Высота строки_Изображение;IMAGE
+ADSK_Типоразмер элемента узла;FAMILYTYPE
+ADSK_Срубка сваи;LENGTH
+ADSK_Вытяжка от МО;HVAC_AIR_FLOW
+ADSK_Диаметр условный;PIPE_SIZE
+ADSK_Код крышки;TEXT
+ADSK_Код лотка;TEXT
+ADSK_Код перегородки;TEXT
+ADSK_Количество перегородок;TEXT
+ADSK_Компенсация вытяжки от МО;HVAC_AIR_FLOW
+ADSK_Наименование вытяжной системы;TEXT
+ADSK_Наименование вытяжной системы от МО;TEXT
+ADSK_Наименование приточной системы;TEXT
+ADSK_Наименование системы компенсации МО;TEXT
+ADSK_Номер стояка;TEXT
+ADSK_Перегородка лотка;TEXT
+ADSK_Позиция на схеме;TEXT
+ADSK_Потеря давления воздуха в нагревателе;HVAC_PRESSURE
+ADSK_Потеря давления воздуха в охладителе;HVAC_PRESSURE
+ADSK_Приток к МО;HVAC_AIR_FLOW
+ADSK_Расчетная вытяжка;HVAC_AIR_FLOW
+ADSK_Расчетное количество людей с временным пребыванием;INTEGER
+ADSK_Расчетное количество людей с постоянным пребыванием;INTEGER
+ADSK_Расчетный приток;HVAC_AIR_FLOW
+ADSK_Сопротивление воздушного фильтра;PIPING_PRESSURE
+ADSK_Температура в помещении;HVAC_TEMPERATURE
+ADSK_Температура воздуха на входе в нагреватель;HVAC_TEMPERATURE
+ADSK_Температура воздуха на входе в охладитель;HVAC_TEMPERATURE
+ADSK_Температура воздуха на выходе из нагревателя;HVAC_TEMPERATURE
+ADSK_Температура воздуха на выходе из охладителя;HVAC_TEMPERATURE
+ADSK_Теплопоступления от оборудования;HVAC_HEAT_GAIN
+ADSK_Теплопотери;HVAC_HEATING_LOAD
+ADSK_Тип воздушного фильтра;TEXT
+ADSK_Уклон;PIPING_SLOPE
+ADSK_Частота вращения вентилятора;INTEGER
+ADSK_Частота вращения двигателя;INTEGER
+ADSK_ПозицияКомплект;NUMBER
+ADSK_Класс взрывоопасной зоны;TEXT
+ADSK_Класс пожароопасной зоны;TEXT
+ADSK_Пусковой ток;ELECTRICAL_CURRENT
+ADSK_Нормируемая освещенность;TEXT
+ADSK_Категория и группа взрывоопасной;TEXT
+ADSK_КПД;NUMBER
+ADSK_Кратность пускового тока;NUMBER
+ADSK_Количество светильников;TEXT
+ADSK_Титул Год выпуска;INTEGER
+ADSK_Титул Директор;TEXT
+ADSK_Титул Строка 1 должность;TEXT
+ADSK_Титул Строка 1 фамллия;TEXT
+ADSK_Титул Строка 2 должность;TEXT
+ADSK_Титул Строка 2 фамилия;TEXT
+ADSK_Штамп Боковой Инвентарный номер;TEXT
+ADSK_Штамп Боковой Строка 1 должность;TEXT
+ADSK_Штамп Боковой Строка 1 фамилия;TEXT
+ADSK_Штамп Боковой Строка 2 должность;TEXT
+ADSK_Штамп Боковой Строка 2 фамилия;TEXT
+ADSK_Штамп Боковой Строка 3 должность;TEXT
+ADSK_Штамп Боковой Строка 3 фамилия;TEXT
+ADSK_Штамп Боковой Строка 4 должность;TEXT
+ADSK_Штамп Боковой Строка 4 фамилия;TEXT
+ADSK_Штамп Боковой Строка 5 должность;TEXT
+ADSK_Штамп Боковой Строка 5 фамилия;TEXT
+ADSK_Штамп Боковой Строка 6 должность;TEXT
+ADSK_Штамп Боковой Строка 6 фамилия;TEXT
+ADSK_Штамп Количество листов;INTEGER
+ADSK_Штамп Наименование объекта;TEXT
+ADSK_Штамп Раздел проекта;TEXT
+ADSK_Штамп Строка 1 должность;TEXT
+ADSK_Штамп Строка 1 фамилия;TEXT
+ADSK_Штамп Строка 2 должность;TEXT
+ADSK_Штамп Строка 2 фамилия;TEXT
+ADSK_Штамп Строка 3 должность;TEXT
+ADSK_Штамп Строка 3 фамилия;TEXT
+ADSK_Штамп Строка 4 должность;TEXT
+ADSK_Штамп Строка 4 фамилия;TEXT
+ADSK_Штамп Строка 5 должность;TEXT
+ADSK_Штамп Строка 5 фамилия;TEXT
+ADSK_Штамп Строка 6 должность;TEXT
+ADSK_Штамп Строка 6 фамилия;TEXT
+ADSK_Размер_Высота;LENGTH
+ADSK_Размер_Длина;LENGTH
+ADSK_Размер_Толщина;LENGTH
+ADSK_Размер_Ширина;LENGTH
+ADSK_Размер_Диаметр;LENGTH
+ADSK_Размер_Толщина полки;LENGTH
+ADSK_Размер_Толщина стенки;LENGTH
+ADSK_Размер_Глубина;LENGTH
+ADSK_Размер_ДиаметрИзделия;LENGTH
+ADSK_Размер_Толщина основы;LENGTH
+ADSK_Размер_УголПоворота;ANGLE
+ADSK_Размер_Радиус;LENGTH

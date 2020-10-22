@@ -1,0 +1,1006 @@
+﻿Количество фаз;a2d06669-a727-4e50-bcba-d7bb905d3372;NumberOfPoles
+Ед. измерения;763aa9a4-e841-48f9-bcf5-2e64763184aa;Text
+Единица измерения;9e75a863-eed0-4d52-a37d-49b818375f45;Text
+Классификация нагрузок;799c12d4-7e40-4ac2-9d19-e2e9a61923ac;LoadClassification
+n_фаз;0257a4b0-6a8d-42c3-bae6-334ab79a9818;Integer
+Полная мощность;58d2d5dc-d311-473c-ab3c-e1ab1bcfb155;ElectricalApparentPower
+Завод изготовитель;2157a058-099a-4920-88f3-e22f4e3f9533;Text
+Марка;53829981-42ec-41e8-a0ed-86168423e15a;Text
+Завод-изготовитель;cfa857f6-031c-447b-805f-dc930a742006;Text
+Код оборудования;73feee87-a84f-4417-ab1d-d6f9dc43ee5f;Text
+Код ОКП;ce19a1e2-3d17-439a-a603-1d1d737adfad;Text
+ГОСТ (ТУ);55f83ad4-d5c2-45d7-bae4-621e45beb584;Text
+Номинальная мощность;3c33d59e-e733-4337-b057-eca5aa202a92;ElectricalPower
+Напряжение;aafe59a3-9686-4ad1-9eca-2ba364db204b;ElectricalPotential
+Коэффициент мощности;82e853e1-81a0-4a15-adf8-2458a891ad58;Number
+Наименование и характеристика;bf351145-92a6-4afa-998e-c0241c01c240;Text
+Наименование;b6ce56bd-ea0c-4b2d-b421-34171d597a24;Text
+Ток;3b3d5c18-f863-4d88-93dd-ed3f0d8a6a72;ElectricalCurrent
+Температура нагрева от;267d5eb2-7ba1-4578-937c-e49832bb9bba;HVACTemperature
+Температура нагрева до;3bca8088-88be-41a0-81d5-1ffedeb27d7c;HVACTemperature
+Тепловая мощность;58b00224-6c07-487f-b66f-9bce853ab507;HVACHeatingLoad
+GP_Наименование;d4ae8837-57f3-462d-993e-2b9476a5db01;Text
+GP_Обозначение;6e21897e-fedd-4e81-8e15-28428d291702;Text
+GP_Примечание;be30076a-bfd8-4bba-9018-d38b6f3dc659;Text
+GP_Код оборудования;b3f94b47-f639-4716-8d77-f8931521204b;Text
+GP_Единица измерения;a0398f1e-6e3f-44aa-9074-6d9e399c9363;Text
+PF_Размер;7decf0d0-3bca-4843-8f44-39ec3ea42578;Text
+GP_Завод изготовитель;8a1a5121-444e-420e-b0e1-65095d5e18f0;Text
+GP_Позиция;3462553d-5bf9-4c0c-b7f9-7505cc9e14fd;Text
+Материал;939e8396-2b37-49e7-8aa9-f571cdc86dd4;Material
+PF_Угол;5bceeb6e-a0d2-43f2-94a6-7081d89be3b3;Angle
+Позиция;8ea5cc16-2481-4d2c-a107-6827023f3aec;Text
+Сортировка в спецификации по разделам;269f14b6-8617-4bf1-9307-371a34b00aec;Text
+короткое наименование;15aebb4c-a969-4b36-a9cf-badc61ebf7c4;Text
+Масса;00861714-9795-4509-a1db-db493307414d;Text
+ОВК_Наименование;1dc20031-0449-4838-9665-8a31e1d4f27e;Text
+АПТ_Наименование;41e04ddc-ada9-40f0-89c0-06cee66fae03;Text
+ЭМ_Наименование;b41bca75-7d83-494f-985d-aafe01c707ab;Text
+ТС_Наименование;779dfa93-c914-4462-a33b-b03ae8a4843f;Text
+О_Назначение;14121b74-8b59-4c1f-be2e-ca3673d12f27;Text
+О_Масса;32989501-0d17-4916-8777-da950841c6d7;Number
+И_Наименование системы;d51342c7-366c-4e86-a9b5-d2f06796e329;Text
+О_Примечание;a85b7661-26b0-412f-979c-66af80b4b2c3;Text
+О_Комплект;8dd021be-382d-4776-afd4-75996e351de3;Text
+О_Обозначение;9c98831b-9450-412d-b072-7d69b39f4029;Text
+О_Наименование;e6e0f5cd-3e26-485b-9342-23882b20eb43;Text
+О_КодИзделия;2fd9e8cb-84f3-4297-b8b8-75f444e124ed;Text
+И_ЗаводИзготовитель;a8cdbf7b-d60a-485e-a520-447d2055f351;Text
+О_Этаж;9eabf56c-a6cd-4b5c-a9d0-e9223e19ea3f;Text
+О_ЕдиницыИзмерения;4289cb19-9517-45de-9c02-5a74ebf5c86d;Text
+О_Зона;c78f0a7d-b68b-4d21-a247-1c8c6ced8bc5;Text
+И_Наименование фитинга;8027da20-e58d-41f8-83d9-eac0eb87085c;Text
+И_КодОборудования;641e9d2c-3cf9-4192-9a14-1744705f92b5;Text
+EAN_code;8f6f6ccc-ca2a-4af0-af0c-0e359c6cf984;Text
+GTIN_Code;cb04d0a9-a646-4bf9-8a8c-5f1e0a0da552;Text
+productcode;69bbe648-b1ac-419c-aec7-de9be9dffd6b;Text
+И_В_ДиаметрВоздуховода;0deb0d5e-d617-409d-87dd-acd0ddb94867;HVACDuctSize
+О_Позиция;6c6db2df-e250-4496-8d1b-a46e4c220b5f;Currency
+О_Текст;9663bf9c-425d-49e2-8091-f31995f03744;Text
+О_Марка;2204049c-d557-4dfc-8d70-13f19715e46d;Text
+Р_Длина;156ea223-db83-41d1-952e-84144083333d;Length
+Р_Ширина;dfa627a1-0bec-4154-abaa-f20b543d473f;Length
+Р_Высота;9614f10f-68df-4246-b9bb-abc941b2884b;Length
+О_Материал;8b5e61a2-b091-491c-8092-0b01a55d4f44;Material
+Air Pressure Drop;a392f3fd-4cab-4f19-a5f5-a08881c276e0;HVACPressure
+MCE Schedule;cb6ba1d4-fd45-4268-adfa-aefa3e8b2053;Text
+Function;4678591c-7e78-4d21-8003-754de5ad4eec;Text
+Family Instructions;18a1846e-c338-4fe5-b369-9a6c8544cd5e;Text
+Height;30c886a7-fa37-45eb-90c6-fb1befd5a647;Length
+Family Author Notes;0ff8a05e-dd44-4d01-9071-6bd7f2e1440b;Text
+Air Terminal CFM;81f78fa2-8547-45aa-b95a-06e062ee9b08;HVACAirflow
+GENERIC_SIZE;67e28272-30ba-45de-bd17-f0526fb4f9dc;Text
+Filter;4fe4e944-6412-4fbb-9c1d-aede703a627d;Text
+Design FPM;eb60f25c-86cc-4332-896b-8f82bcaab089;HVACVelocity
+Type;e8adc716-f993-4b11-a370-b2b992b8b47c;Text
+Design Noise Criteria Rating;37697840-e18a-45c2-bf1e-e44ed3555328;Number
+Notes;01c221c4-c609-4af3-b4fd-a17d135341c5;Text
+Scheduled Noise Criteria Rating;73e1ebf7-d603-4807-bd68-cf6c99ceaf44;Text
+Mount Type;d63d26ff-d77f-495c-a9c1-9a2b8b2a5991;Text
+Material;501c6d33-4756-4e8a-b114-024beae372ab;Text
+Family Basis;3e8a96ef-0f3a-497d-b2e0-a18428561080;Text
+Air Terminal Group;b5d4a58b-f529-4852-b524-a744a3d1df4a;Text
+Remarks;eae0508e-96d1-49a6-8f64-6dd9682039c8;Text
+И_В_РасходВоздуха;9b7d541b-cc04-4e41-949d-a0d6ed778a25;HVACAirflow
+Р_Площадь;e47e8e26-7687-4048-93ee-3b9ca14d371e;Area
+И_ТолщинаСтенки;a0425208-5b64-4c45-b26f-9631348419cc;PipeSize
+Р_Угол;f5af5233-98fe-4f24-8366-8d17ee46c78e;Angle
+И_В_ВысотаФитингаВрезка;95452fec-9e9b-4ae5-b882-0e250b50dd69;HVACDuctSize
+И_В_ШиринаФитингаВрезка;27b3c5c5-2a71-47bb-9ffc-f9360396c18e;HVACDuctSize
+И_В_ВысотаФитинга;a383ea67-a8e3-4c52-b254-501666f22a51;HVACDuctSize
+И_В_ШиринаФитинга;86911179-cb4c-4d72-bc13-c8c065cb5a64;HVACDuctSize
+И_В_ВысотаФитинга2;69af2a8f-3540-4827-9283-848ac204ebcb;HVACDuctSize
+ЭМ_Масса;0b88da0b-a936-4914-9a87-7c063b921981;Number
+ЭМ_Этаж;7d43aa96-4c0c-4c26-9fdd-924ff3eda3f1;Text
+ЭМ_ШиринаЛотка;2c20e130-2beb-4c86-970e-99f67405fd7d;ElectricalCableTraySize
+ЭМ_ВысотаЛотка;9002711e-ad88-4c77-8d84-b29107343ac3;ElectricalCableTraySize
+ЭМ_НаименованиеФитинга;0eebe976-9623-402a-86bb-a5008524b87b;Text
+ЭМ_Комплект;f69dc56e-ffeb-47f2-a6f5-cac7ace58ab7;Text
+ЭМ_Зона;d0a55e08-fbcd-4c5c-a255-4438c38661d2;Text
+ЭМ_Назначение;c787e0c3-ba1b-47c7-953a-ff6cc1c5c2fa;Text
+ЭМ_Наименование_Англ;63eb67d8-b94e-45fc-96ca-0739e117b5a9;Text
+ЭМ_НаименованиеФитингаАнгл;3da54e17-415b-4abf-a476-0491a172e837;Text
+ЭМ_Код_Оборудования_чц;fbe6292b-fafc-4ff1-b951-d91ed3a24d37;Integer
+ЭМ_Обозначение_Документа;1c6fa560-57bd-41f4-8e3e-1f8486e04046;Text
+И_Э_ШиринаЛотка;485875d4-0fbf-4eac-871a-fddc4c27947b;ElectricalCableTraySize
+И_Артикул;afe52301-3522-4225-b031-aaf753e88c5f;Integer
+О_НаименованиеАнгл;2f91d5f2-6bdf-438b-b91e-94b20fe23f8a;Text
+И_Э_ВысотаЛотка;cadd366d-0152-41e0-81f5-5acae917f430;ElectricalCableTraySize
+И_НаименованиеФитингаАнгл;68bb7ad1-9b32-43ed-97c8-a3da7b5dc807;Text
+ЭМ_Завод_Изготовитель;3015083d-2fbf-423e-a6b2-487dd4267fcd;Text
+ЭМ_ШиринаЛотка2;33d16a08-be3b-4561-b2c9-1e771037e294;ElectricalCableTraySize
+И_Э_ШиринаЛотка2;893a3951-c9b6-414a-b1e1-1d0a3e1c94bc;ElectricalCableTraySize
+Артикул;8e2c9f97-4f7f-48ae-964d-6b8ad778884e;Text
+IsCustom;b3ef168d-86a0-4984-9130-42521991113f;YesNo
+ЭМ_ВысотаЛотка2;15456672-f20a-433c-9460-528a986bd49d;ElectricalCableTraySize
+И_Э_ВысотаЛотка2;9ef295f0-a03c-43c2-868e-2b0e324e0460;ElectricalCableTraySize
+ОВК_Масса;e966774d-ae31-4ac7-823c-fb8625f8535b;Number
+ЭМ_Код_Оборудования(число);2f7d8f98-fddf-46b2-852e-fb227bd72c0c;Integer
+ЭМ_Угол;9f090821-fb1e-4f9b-aa5b-69a04edca933;Angle
+ЭМ_УголПоиска;350a91a7-8299-47dc-a52c-00ccf16fe591;Angle
+О_Позиция;ae8ff999-1f22-4ed7-ad33-61503d85f0f4;Text
+И_Диаметр;a2fac8fe-2356-481c-a426-bebed74ee03b;PipeSize
+О_ъ1(Длина);36d190c5-ab5d-4af5-98cd-fcd0f5afa15b;Length
+О_ъ1(Текст);be9806a6-14a9-4749-b8bf-23759de64900;Text
+z Suction Radius;7be08921-2214-4ba0-8f4c-8297acb0c26c;Length
+z Discharge Radius;91a50a28-890d-4e31-87d8-65a2545c215c;Length
+Load Classification;721e0d87-6c4a-439d-9176-a53a591a5397;LoadClassification
+Number of Poles;4897972a-b5db-495d-abc0-df1fe6a91c76;NumberOfPoles
+z Coupler Radius;038a7c95-869c-40fa-815e-69cc1367e62d;Length
+z D1r;1f2589eb-394c-479b-9286-c12e34a5f447;Length
+z Coupler Radius Bottom;a2465d8d-359b-49f8-9489-bbc893844890;Length
+z Discharge Size;aa6aa2ab-7a4a-4f44-8520-2988c3ff2b78;Length
+z D1;e2ad2d21-3b00-42b4-aeba-c11b28ee1c6e;Length
+z D2;1b81d22e-aeac-4a3d-ae73-6cd4394001c6;Length
+SupplyVoltage;a90fbe4d-6402-44e6-bac4-bf7e250a96dd;ElectricalPotential
+z Column Radius;4f24416c-31d6-42f7-9452-5a1c6db8e839;Length
+z Box Width Left;1692fca3-5b14-4fb8-ab99-537eb86fa17f;Length
+z Column Bolt Radius;db72c0be-1868-4971-bd77-bbeecabd5f01;Length
+z Suction Size;fb3993da-ce33-4b25-915d-c22e40fb9f1e;Length
+z D1 Corner Radius;22ada5c4-6ad8-4603-a081-9649a7bda403;Length
+z Base Corner Radius;8075bea0-73d6-4a74-8a7e-d87d22e0419a;Length
+PowerFactor;0cee6e8c-45e2-4928-a173-942624f726ee;Number
+z Box Width Right;bdc20cb8-adcd-4ae5-836f-a24316998a50;Length
+Flow;c952c0c2-2e4d-4824-9728-8b4aaef9f593;PipingFlow
+И_В_РасходВоздухаВытяжной;09a2cc33-19c8-4122-b344-37c037ea16a1;HVACAirflow
+И_РасходЖидкости;8748b0ed-3053-4b02-a87b-8d31dbdde981;PipingFlow
+И_В_РасходВоздухаПриточный;5ea9d045-d650-4f7e-8eb1-8987b04f99f7;HVACAirflow
+И_Т_ПерепадДавления;53a85fe2-b55c-4742-98ee-de7b51c97649;PipingPressure
+И_Э_НоминальнаяМощность;b4d13aad-0763-4481-b015-63137342d077;ElectricalPower
+z Snail Radius End;035b68aa-10dd-4c22-b559-c2ec10a6fc5c;Length
+z Coupler Length;3bca1eb4-5a0d-4410-bb44-2acdf0594bbe;Length
+z Suction Flange Size Actual;48d71239-3cbc-41ab-a0bb-25b532bfd398;Length
+Uniclass 2.0 Code;48cd7bef-8efa-4a67-a12b-715dc1ff7bf8;Text
+Revit Version;6c578d30-a2ae-4421-a991-fc5140d78839;Text
+Uniclass 1.4 Code;05762797-3833-4e64-9b74-9ca5dce73ef7;Text
+Size;11d3a571-bc02-4e23-bdf4-6bc6d5e88163;Text
+Brand url;c2234c12-18a5-4a91-ad8d-763cab7ebd50;URL
+Uniclass 2015 Name;65a67949-ee15-4f2a-a423-089da3f6df42;Text
+z Visible Clearance Area;587f925d-d460-4396-9460-f860a273d92d;YesNo
+Masterformat 2014 Code;db01f122-c0d0-4871-bc25-15f7fa487430;Text
+Suction Connection diameter;cba156f6-40cd-45a9-8008-1d48932a7d71;Length
+z Suction Flange Thickness;683cb0c8-8426-46de-a048-18db1cb249f3;Length
+Show Annotative Symbol;f386bf2b-6437-48a2-86ca-2ba0cef0a678;YesNo
+z Motor Radius;ff45ac35-2356-4182-be25-e2f07c8ce607;Length
+z Base Offset;6c3f525b-9306-432c-af91-625f21b35263;Length
+z Motor Length Actual;8b284817-7167-45a0-afe4-01b1261123ca;Length
+z Feet Width;01812426-10b9-44d1-a509-c02d82137c68;Length
+Original Creation Date;6326b083-5418-4e0c-acb0-96998d6975f3;Text
+z Discharge Flange Size Actual;3129f8a8-95ce-43bc-8f1a-a883660c22ba;Length
+z Base Mounting Hole Spacing Width;32a1ef99-2449-449b-983d-16e755334969;Length
+z Feet Mounting Hole Size;6518a8d4-b07d-452e-ae65-5b3f71d8b028;Length
+z Coupler Diameter Actual;3f6b0e70-953e-4378-83be-b4e051b108cd;Length
+Port to Port;3b822476-7f03-4984-b972-ea3a044f4b2a;Length
+Discharge Connection diameter;41113349-4667-4470-aa8e-ec2e53ef1fe0;Length
+Enclosure Rating;a2773dee-1c8b-4eae-b7e9-7ba709252df2;Text
+Watermarked By;d2443e35-3adc-46b6-a60b-ea80e7c3cd76;Text
+z Visible Annotative Symbol Left;fb88600d-04bb-4526-9beb-6c002beaf149;YesNo
+Product family;27d22fd3-6870-4abc-bd52-a615ada6ed5f;Text
+z Motor Length;a34ce4da-aada-4505-bbac-b104015bead6;Length
+z Feet Thickness;609fe913-331b-4ea3-a2d7-de4193d52b1b;Length
+z Discharge Flange Thickness Actual;45f96729-a215-4282-83b7-9b4c6d25630d;Length
+Date of publishing;e13420bc-e59a-4f7f-b7a6-e45c4e827efa;Text
+Product Model Number;2388ee54-4d6e-4cb8-ae2e-3f109b46ac3c;Text
+z Suction Flange Size;bf821646-9cee-48d7-9c00-738ce9de4270;Length
+Copyright;611e9466-24f0-47db-a205-8c909d2df2f3;Text
+OmniClass Description;9c47a33c-be9b-44bb-bd71-92606c3597b3;Text
+Maximum Starting Current;e296c88e-62ab-4cbf-b9e2-f1b3b212e31a;ElectricalCurrent
+Uniclass 1.4 Description;c1e369eb-f9f4-4673-bfdd-7c29857f9011;Text
+z Visible Clearance Area Masking;d83a8823-21dd-4999-9e0a-117c887c6d46;YesNo
+z Visible Annotative Symbol Right;96c143a4-bca9-4401-88fc-96c3fcf00cc2;YesNo
+z Discharge End Length;a1ed33d3-9f72-4b5a-b907-4b019a3784e4;Length
+Model Disclaimer;6de4ce22-1ebb-4623-b807-a7af97cd9f8b;Text
+z  Offset;30d29d80-23ec-4330-a00a-092f4a0863fc;Length
+Manufacturer country;2a7930ca-9207-4267-8e05-a6a346089fe9;Text
+Region Asia;f4da82b2-c581-47dd-adf7-c88908971e51;Text
+Region South America;aa8355e4-7880-48af-aa25-dcdb239eb93a;Text
+z Box Length Actual;dc539849-d6e5-460a-b177-6ddd2bdf4082;Length
+Gross Weight;d40cc285-7ea1-4df3-b699-e20593745d98;Force
+Installation instructions;aff17c52-7573-49cf-9c5d-fcab19d2ade3;URL
+z Box Height;7e05bec6-8eac-42b0-b884-f8a966dccbdb;Length
+z Discharge Flange Size;71f3a4a6-9694-425e-80ac-3e60416340cb;Length
+OmniClass;b99f8e94-20f6-43a8-a7f3-9170197b53c5;Text
+Product Range;49de6604-0ef7-4852-a6d9-32adfa6cda63;Text
+Product url;fccb472e-9d74-406f-bb7c-6fcf2b2dac3c;URL
+Region North America;567ad693-bc00-4d4e-9165-e9bf9bd27b02;Text
+Material main;d8a64b2f-9dcf-4a0e-b4d3-75ce7a3abe53;Text
+Youtube clip;9a0246d9-c90c-4c35-9203-a44e1710c16c;URL
+z Box Width Actual;1abae737-43d9-45cd-8466-2819a2263d11;Length
+z Base Mounting Hole Spacing Offset;00dfa69b-b2b1-4103-83ab-92d24b8f8dfc;Length
+Manufacturer Ar. No.;8e3c391c-20e8-453a-923f-39b70eb4489d;Text
+Nominal width;7fbc48b4-9e3d-4723-948c-7fe3bf8ac945;Number
+Author;1db05663-4ab6-4309-9ff5-7f39c6dd5d3f;Text
+Region Africa;d10d52e2-de63-4e0a-9e0e-323341a632fd;Text
+z Feet Width Actual;847d05f1-3dae-4e7b-84db-97d1b40d0b62;Length
+Product group;ec334744-ceb0-4ccb-a58b-7cdc380b7fb9;Text
+z Discharge Offset;7a385681-12ca-413b-904b-4bce738435d0;Length
+Product SKU;b61f9740-8d64-4906-b63c-eb9e9be0857e;Text
+Manufacturer Website;37863357-d115-4b35-8488-273c4014f29f;URL
+Region Antarctica;1ce0d382-d8f3-400c-8a40-1fa69708c94e;Text
+z Foot Width;86059760-831a-470b-8785-2ebae6177b0d;Length
+Annotative Symbol Native Radius;cfafe3ec-3d5a-44ef-b066-6067a5d6a0c6;Length
+Product certification;ef2d0fde-08bc-4447-b732-568693e192de;URL
+z Feet Length Actual;6d33b760-2e1a-4ec9-91ae-288ba337cf50;Length
+z Coupler Diameter;a7cdc300-0ee7-40bc-811c-c12d46490b0d;Length
+z Feet Length;8d9bc1bc-604e-4671-bd17-ae703dba8250;Length
+z Motor Clearance Area Length Masking;4da61ab5-1b1e-45a7-b5c3-6e63502a51c5;Length
+Region Middle East;9aad672c-3e13-4535-8dcb-535a4ee8c33e;Text
+Technical description;19df7c05-0974-4613-94d3-27a1b4940840;URL
+Part Number;d0ce89e8-997a-41ab-b37f-8b682d361af3;Text
+Design country;5a16e2cb-5812-4d91-80c6-3fb63d95ecde;Text
+z Box Lateral;3da6126e-ec68-4e3e-847f-cbe95477f44a;Length
+Electric motor output;58a0ce24-5804-46f1-944c-ba8c68378943;Text
+Masterformat 2014 Description;ce4c84ea-4291-4922-8ef3-d9981cfbdee8;Text
+SupplyFrequency;60041dac-7597-44a8-98fa-8d4f67230499;ElectricalFrequency
+Show Masking Regions;7be1853b-c6b0-4222-9bf1-00f30b0af65e;YesNo
+Weight Net (Kg);47784383-b9b7-4e79-b6ac-cb812445629e;Number
+z Box Radius;5250e8ba-6074-4dc3-a327-4dd684f91c4d;Length
+Region Oceania;658cab6e-3e28-49b5-a9ec-7bcb963ed91c;Text
+BIMobject category;5796b101-9840-4c4c-84cc-b5a1c10150fb;Text
+z Box Length;6c103ea6-4d74-4364-9417-5745c3439d96;Length
+z Box Width;af95dbd9-1dfc-4fd2-b73a-7c0127cbe15b;Length
+z Base Mounting Hole Spacing Length;eb693d7a-8822-4a0b-8b5f-687e288705eb;Length
+Family Version;df8233e0-dca5-4687-af41-e3e9118705ed;Text
+Impeller diameter;2f4b9427-3bbc-4434-a505-d080bb273658;Length
+z Feet Height Actual;423a19a5-6318-4e33-b22e-f725100e33c4;Length
+Uniformat II Description;555b6a94-41ad-430f-9ef3-65114553df74;Text
+Maximum Operating Pressure;22ada741-346b-4714-8df9-1f4cd0db43cb;PipingPressure
+z Motor Clearance Area Length;63f5864d-fbf1-4527-b692-79c5dfab8e7f;Length
+z Suction Flange Thickness Actual;cf21a4d9-0b33-4e44-b24c-489269853d40;Length
+z Base Mounting Hole Size;ea92f389-29af-4e16-a957-3370e85e11d5;Length
+Region Europe;f6137e6c-ff25-4212-b2b8-a18dd32ed7c1;Text
+Product data url;0e527df0-59eb-4359-af1d-4df56c6ee98f;URL
+z Motor Corner Radius;d26a802b-fee8-48a9-81ee-74f35df4bdcd;Length
+z Motor Diameter;4b205043-c2b0-4459-a104-55dee8c1cd46;Length
+z Snail Radius Start;61f1316b-e660-4440-b40e-f0559bca3e51;Length
+z Snail Radius Focus;bec852f9-898a-4975-a382-cc5485d49251;Length
+z Feet Mounting Hole Spacing Width;385be194-e694-450a-a5d6-a23b51515a9b;Length
+Equipment Number;5a0955c0-e2fd-417f-bd51-49c0fe61d882;Text
+Uniclass 2015 Code;d551672c-5897-4ae5-b554-a6af39b2aa7a;Text
+IFC Classification;1a53dd7e-7d4d-4042-a36d-0395c394cfda;Text
+z Feet Height;b27f479c-401a-422e-b65d-5c6e7b5ae33c;Length
+z Snail Radius End Path;1134fd59-5d23-4643-a19e-edde20109d6b;Length
+Uniformat II Code;34a4b41d-8988-41c1-835d-c2bac74ee512;Text
+z Box Corner Radius;0966cf35-6955-4e27-9d19-8d83f708cb65;Length
+z Discharge Flange Thickness;f082d5b8-ab6b-4685-a5d1-cbad4b517acb;Length
+z Feet Mounting Hole Spacing Length;6ff1e4b5-b372-430c-9102-8d50b78f356a;Length
+EAN code;094625ac-b239-468b-a2f9-c486d9f4ffec;URL
+Equipment Abbreviation;e873b934-9f40-43a4-ae73-87f375061f0d;Text
+Date Last Modified;3210f3b4-5032-4279-aaab-6554dcf3a600;Text
+z Volute Angle;3ea9cad9-13b8-4218-a22d-8182a638de4e;Angle
+z Visible Base;9d497c89-8c49-4329-a077-366395775818;YesNo
+NBS Reference Code;3719c6cf-2f2f-4254-956e-0313c84f38db;Text
+Material secondary;55acafa6-6eb6-4204-b1f1-392965170b72;Text
+z Foot Width Actual;0acc58ae-f4e4-4e68-ac0d-18481537c461;Length
+UNSPSC Code;bec4d98c-d952-4f0a-a81a-fd13cc51793e;Text
+SupplyPhase;2db2eaa4-93d2-4e15-ba9c-6fe33f5bc85e;Integer
+Edition number;332d329e-15b5-4713-b0f5-cff7bf078113;Integer
+Product Guid;aed69ad1-c72a-4a31-9634-921e2594b18e;Text
+Nominal height;e775e597-7ece-4a95-80fb-19a22b0abba2;Number
+z Suction Flange Radius Actual;b664793a-b52f-43f8-861f-d21778a49f81;Length
+Uniclass 2.0 Description;20f4a0b8-8ec2-45ff-a189-5945a8a511be;Text
+COBIe Type Category;17055d4a-3192-485b-904a-5cb8a70aa15e;Text
+О_URL документации изделия;bddc75f4-8e27-4afc-add0-de7358bbf6d3;URL
+Part Description;1326cae3-e4e6-4328-900d-bdffbfdbb961;Text
+z Discharge Flange Radius Actual;68943920-8d2a-4439-b5d5-c1e4860c74e0;Length
+Manufacturer name;8dfe286f-2f8a-43f6-9548-d325846c2864;Text
+z Box Height Actual;b6a9d89b-f05b-417a-b2bc-00dc5cb17318;Length
+OmniClass Code;4cdb6e4b-f5ee-4234-ac4b-af70bcc205a4;Text
+z E Motor;eb25f929-eb03-4f4b-8212-76f12819dc77;YesNo
+ProductCode;2cca123b-8c54-4cbd-b098-eaf2d8738b8b;Text
+AssetType;a89cb8e4-2942-4184-bef1-77c1ae29e2b5;Text
+QR code;093f12ad-355a-459e-a46c-9d786b5586d3;Text
+Maximum Operating Temperature;a43e7f48-f280-4df0-b754-fec8299cb01d;PipingTemperature
+z Snail Radius Start Path;cce2aba0-ac2c-40c6-90a3-c1fc769a4a17;Length
+NBS Reference Description;b5eafa34-623f-40b8-9644-dc9fec978c3d;Text
+Efficiency Rating;6b579248-c155-455b-ab0e-7d34750d829d;Text
+z Suction End Length;e1f62252-4ec9-4d8e-bbb9-ba2b7bf6b877;Length
+И_Э_Напряжение;be29221e-5b74-4a61-a253-4eb5f3b532d9;ElectricalPotential
+И_Э_Ток;7e243149-8b16-4c8b-8161-cd7780048c99;ElectricalCurrent
+И_В_Длина;64bd1255-0ee7-40c6-afbb-254da0785a19;HVACDuctSize
+И_Т_ПотеряДавленияЖидкости;ca816cbc-4f60-47c8-b0fe-14eddcc32b16;PipingPressure
+И_Э_ПолнаяМощность;7bae0e4a-a125-4818-973a-00fd56bf853d;ElectricalApparentPower
+Р_Диаметр;9b679ab7-ea2e-49ce-90ab-0549d5aa36ff;Length
+И_В_ТепловаяМощность;be7d2b1b-1916-428f-87f0-d9ee8d4f1efe;HVACPower
+И_Э_КоличествоФаз;d182b385-9e45-4e8b-b8da-725396848493;NumberOfPoles
+ADSK_Потеря давления воздуха;e6505622-4f7e-4529-a638-b368f37e9ecc;HVACPressure
+Р_Диаметр;97da4428-48b0-454f-8bc1-41f005fb1ef3;Length
+И_Т_РасходТеплоносителя;cd095b4d-1973-4682-8f03-f187d07b890b;PipingFlow
+Р_Длина;748a2515-4cc9-4b74-9a69-339a8d65a212;Length
+magi_cooling_qv;67fbd87c-4a3a-4308-a74e-9c5736c0c594;PipingFlow
+magi_ducting_qv;1f735c26-6dcb-4590-b91a-3c090ce3f60d;HVACAirflow
+magi_piping_qv;e5a01874-d508-4701-8c59-9d1dd9cea36d;PipingFlow
+И_РасходХолодоносителя;1b29d3e6-4799-44a4-8c1f-48c38eba9cd6;PipingFlow
+Кол.светильников;d9517304-786c-44bd-a980-a1a0818a98b7;Text
+Материал;711609b4-d2c6-47cc-88b0-23c234a4719b;Material
+Кол. ламп;287590a2-7b8b-4d0c-b0eb-b903903ab262;Integer
+Марка светильника;e8b9c4f4-93ef-45f6-b368-6f5dfcc6f3ed;Text
+Мощность_1_лампы_светильника_Вт;aabb260e-09f6-46e4-9d2a-849d0448e16d;Integer
+Примечание;58d81019-beae-4295-8949-59cd48ed9223;Text
+Высота установки светильников;51d1ae01-5183-43ca-961a-e40014e2774d;Text
+И_НоминальныйДиаметр;4ae86ee5-4d40-4a47-94dc-1e78dab8035f;PipeSize
+Primary Material;35a1cf85-a83b-451c-8f16-844f8f41fcc9;Material
+Uniclass 1.4 Description;f2e51c8e-03c1-4a27-b04a-14168cf1faa3;Text
+Product SKU;1b6f1ce7-6345-4a16-8b70-bbefbe589eb4;Text
+Product group;b5dbc337-abb1-48ab-8398-bbb1d5d7e6a0;Text
+Uniclass 1.4 Code;7aefbd8a-3f88-4600-8e31-2827ac24eada;Text
+NBS Reference Description;e7d9fb01-5f43-4cbd-8e9a-6f91d0d657eb;Text
+Product family;5fdde21b-c207-45b2-b332-fd0b7e1836cb;Text
+IFC Classification;027dc6bb-84ba-40ad-bead-bd766fa8b0f2;Text
+Youtube clip;6531f43c-0f97-4df3-8f3b-6a1fe2889882;URL
+Design country;086aaa8a-d557-463a-9f9a-40506737ff79;Text
+Product name;880f6fd9-b48d-48f2-8eae-2d6b07e738be;Text
+Date of publishing;916f198d-1413-46f8-ae07-240b10ce563a;Text
+Manufacturer country;d9580482-ca3e-4175-b223-153cd3dcb48d;Text
+COBIe Type Category;4dd436d5-1b25-42eb-be2f-881ae52d4abd;Text
+Installation instructions;f5c9092c-cefa-442a-863e-8e1815544b96;URL
+Product data url;ab52e2fe-dac5-4c51-a1f2-b34c0ec13466;URL
+UNSPSC Code;247c979d-d785-40e0-aac6-6f6b1217b29c;Text
+product_series;bdd0bf55-494a-49e3-9be0-c9ec4444374d;Text
+Uniclass 2.0 Code;cf788cd9-3cf4-4bfa-87fa-ef7085a730cb;Text
+Product certification;ab2504b8-8924-4c4d-b1d8-5cbe2e59e7f3;URL
+EAN code;ce8022b1-fa78-48be-badc-1b07c7fe370b;URL
+Technical description;24f7d427-b773-4385-a746-9b91070804fb;URL
+Manufacturer name;088b924e-81b9-43de-b3c0-eb478f90b19e;Text
+Р_Глубина;7662f42e-1113-4178-8468-3c198de6e353;Length
+Weight Net (Kg);4060d8d2-72fe-46e1-9938-c0519884fe14;Text
+diameter_cw;fbf7cd85-7532-4714-a12e-e4403149a850;Length
+BIMobject category;5418cfb7-434d-4001-8194-1d4e9d90c289;Text
+Material secondary;cad72ecb-9088-4690-8cd6-811a1d012410;Text
+QR code;c7e0701a-e7d1-43ea-92fa-a5d303e2fcdd;Text
+hoogte;eb1b75b6-4c63-4b07-9bfe-e4e616de2809;Length
+country_index;b33936ff-431c-48d4-9de7-f3a9c1ff0431;Integer
+Material main;8f70dfd4-4431-458b-837e-9f76147fc6dd;Text
+Edition number;6264bdec-7fcc-4a78-ac4d-7b4a8359cd79;Text
+NBS Reference Code;173f045d-8071-4a8b-b60f-13e3e4a0b4de;Text
+И_Т_РасходХв;0afc7eb9-a8be-48dd-b1a1-272c020fbfdf;PipingFlow
+Steam Screen;de449247-3126-4e3d-a0e0-a336e140f632;Text
+Pressure Drop;82ec8691-b3c4-487c-9497-c0deb8b8251e;PipingPressure
+Port 1 Diameter;ad42bebc-6f88-4d14-8da2-e8a6a2701b00;Length
+Nominal Diameter;aa77fde9-3e74-412c-919c-130c3cfd15e4;PipeSize
+Face of Flange to Port 2;4cddf3a0-9d9d-4329-89ec-efb323cb7d23;Length
+Tick Size;19bbd44d-1024-4e24-a7b5-fba09c378aa2;Length
+WOG Screen;12e9b852-cbaf-4fa7-93ef-e7c9a092fc19;Text
+Face of Flange to Port 3;9416f6f9-e650-43df-a8d4-f57a1eaa25b8;Length
+Length;1d07291a-48d5-494a-802e-0401bbfb154d;Length
+Port 2 Diameter;9105e68a-bb80-4b0b-8539-6266dfbfb98d;Length
+Face of Flange to Port 1;d7f4b11b-9809-440e-9d32-31713b7811bc;Length
+WOG Pressure at 150 deg F;5e6bd618-b165-47e3-93f9-5f67ec4c4a2b;PipingPressure
+Steam Pressure at 400 deg F;abbe3dea-51fc-4ca0-b7b7-4dfb52391a1b;PipingPressure
+Port 3 Diameter;310e734d-8b65-4d23-b95b-c811f78e0f67;Length
+MC_Default_elevation;dc75f991-8620-4049-8930-e2eb24d070a0;Length
+Артикул;c020c860-2241-459f-b2f5-ad0cdc6b2b2e;Text
+Nominal Pipe Size;e0ee5220-d6db-4855-af6c-e333c51b3c71;PipeSize
+Design Flow Rate;dbe421be-e9ce-4a06-9bfa-9e6f553ede5a;PipingFlow
+Flow Rate;b0e8743f-a6b7-4bd0-aba2-cfcd22a0b72d;PipingFlow
+Maximum Flow Rate;a4407120-9a69-44d2-a356-592b01d7071f;PipingFlow
+Manufacturer URL;1f203b84-519f-4628-ae7f-8cf6f7ad8000;URL
+Manufacturer Art. No.;0355fd06-2aa6-4fce-b955-be0bb50df95d;Text
+Stabu Code;d117a499-e9f0-4c25-b667-d6bb2e387224;Text
+Примечание;4e70eb93-e771-4927-905b-ca64bab0ddb5;Text
+Наименование;ff063a3c-7d58-4f30-95b4-d174a538bf0d;Text
+Обозначение;344b0375-55e9-4958-b409-898ca2937193;Text
+Масса;74963029-fed9-4a7c-8825-c9d457cbe9e8;Mass
+И_ТолщинаСтенкиФитинга;784f0c76-c0ba-4c96-a728-7bc60cbf5a69;PipeSize
+Ед. измерения;6352bbfe-12b6-40f1-8c34-504ddcf437d5;Text
+Изделие;ba92d087-b4eb-4ffb-8c5d-c2ad5e9eb42e;Text
+ГОСТ (ТУ);d5b8ea60-a961-4b44-8ef0-2e10ad86fd5b;Text
+ОВК_Назначение;e7b32502-5ee3-4a69-bf4e-82cdeddb4c2e;Text
+ОВК_ОбозначениеДокумента;0f4cd924-6c85-466f-aa38-0c6b7fba7b7d;Text
+ОВК_ЗаводИзготовитель;bae05292-73b7-49fb-a8d3-98eb2010e027;Text
+ОВК_Наименование_фитинга;a12330ba-a1d7-4563-b83e-324c0952ef1b;Text
+ОВК_Ед.Изм;b220da7d-462f-422c-a3cc-33dd972aa2a2;Text
+ВК_Диаметр;71e1ed36-05ae-4bd1-8fab-4a7df666406f;PipeSize
+ОВК_Комплект;ad0ef2a2-d5f6-45c3-b119-9d9a3338fa23;Text
+ОВК_КодОборудования;933b0da6-0066-4d9b-af7b-8ab23b3fa7aa;Text
+ОВК_НаименованиеСистемы;a0a205c2-319c-42e7-a300-5230f237003d;Text
+Масса;cc03410c-5ee9-4629-a2cf-0954cbfa8be0;Number
+И_Описание;b1e08069-d99a-4607-b7bd-5f533a33e5f5;Text
+И_Диаметр изоляции;6177e74e-e7eb-4e7d-88f1-6615e3324d19;PipeSize
+И_ДлинаИзоляции;ff0d65a4-4a16-4acf-9d94-ad9c3d1a42c0;Length
+Uniclass 2015 Name;1a440f14-010e-4a84-97f3-5ea4a3bcf0a1;Text
+Product data url;22cd13e5-5e2a-4fe2-956b-29c78725b81b;URL
+Region Africa;afd1834b-1177-4ef4-a584-4c7b8755dba5;Text
+Region Oceania;8e1e3faf-dd60-4a83-9e62-c7b3ed32f74a;Text
+Temperature;9d7213c9-4749-44a8-bb7e-c1f3c684af14;HVACTemperature
+Uniclass 2015 Code;d6ff6060-3ea0-4b70-937b-d38959d0bff1;Text
+OmniClass Code;0a73f653-8e55-4bff-99d0-171553491242;Text
+Uniclass 2.0 Code;2bf3b1ba-6906-4299-840b-56bc0365e185;Text
+BIMobject category;b3f4c1d2-b680-4ba9-9bc0-0100aee63c49;Text
+Installation;ed6af1cc-8f73-4e93-84ff-0d52799aa9c0;Text
+Clearance Front;1d5a8110-8d16-4586-9f71-10668e99aaeb;Length
+Cubical Type;9d90a1e8-fc7f-47b1-a983-4b90e677a9e3;Text
+Product group;7ad12acc-73f1-40af-b414-58cc0497ef33;Text
+Product certification;b4df25fe-a950-4211-ab38-0d3ed0f833ac;URL
+Region Asia;483923f2-4819-454b-a4fc-dc3f1d073334;Text
+Uniclass 1.4 Code;1633763f-ca1e-49b1-ad3a-88608ae29594;Text
+Cable Entry;46700cba-759c-4ee7-8491-ad8737b6e6d2;Text
+Rated Frequency (F);6f06177f-40b4-44df-8b72-46ae24bf097d;Text
+Design country;ca9d3ca1-e2fd-48ab-b766-9ec34b8b325d;Text
+Rated Voltage;61c728a6-ce53-4273-b760-0406b0d7dcce;FamilyType
+Region Europe;2451df6e-cabd-410b-92bc-97ab91f7f74f;Text
+Date of publishing;28aa597b-143d-40f7-b0c5-c77252cdc5a5;Text
+Region North America;fecb021e-2f65-4f73-826d-3484e66004ab;Text
+Manufacturer name;ab1830fd-6666-4bc3-ac2f-ad4d4ea89743;Text
+NBS Reference Description;998b771f-c21e-4cad-8231-6eb0f90cb31c;Text
+Material secondary;00dbdd83-7eab-4d24-9865-d543658faa21;Text
+Weight Net (Kg);0e73f7fb-a097-42f4-b6a3-a9a7d67638cf;Number
+Copyright ©;52dfa0a4-56c7-49c7-ae1f-2e2457183c59;Text
+Making capacity (50 Hz);43f96e04-0edf-4167-9ffa-3fbc171effee;Text
+Product family;95b1c023-2738-408b-b183-a5f71ad7c70f;Text
+EAN code;62ea9375-0adf-4a18-a661-3cb96a9da373;URL
+Technical description;b84bdbe1-9404-4e84-8914-16335b9705cf;URL
+Uniclass 2.0 Description;4996ee98-0d52-4f1d-a3ca-4c91cea22a07;Text
+Region Middle East;ca5bb426-e645-47c3-8512-5a53c9b96bb6;Text
+Width;dabf7b71-f1bd-4f0e-9b2b-9c10bf2693d4;Length
+Earthquake Withstand;42d98434-02ac-4fea-9951-162beecfd82c;Text
+Clearance Rear;e522c91e-73cb-44fb-aa9b-96967b1898e7;Length
+Product SKU;d7a26700-4226-46e3-98a4-a9b9d6eb8d21;Text
+Reference Standards;5284eacb-299c-451e-84b5-1857d2fcc9be;Text
+Enclosure Mounting;ac455e6a-25cf-4d10-8c4f-cbc19941cf56;Text
+Access;3e524eaa-3577-4bf9-9de8-e9e144d7c927;Text
+Insualtion level 50/60 Hz 1 min (kV r ms) (Ud);c9562e8b-9bfc-4e4a-a516-440a77f6dca9;Text
+Region Antarctica;d9e43091-90dc-4f84-b928-b1dbb8da62c7;Text
+Isolation 1.2/50 ?s (kV peak) (Up);68c72779-57cf-4258-b6b2-6a2ed753c8da;Text
+Nominal height;7ca628b7-01cb-480b-9415-2987e99859e4;Number
+Manufacturer country;7688101e-03d7-4891-80e6-85bec4deec69;Text
+Nominal width;c17a9d3a-741c-4afa-aba2-933d97f35565;Number
+Clearance Material;52b7a6e0-33cb-417e-bf7c-43b2c1e59b48;Material
+LV cabinet;9b55cfd4-d244-4855-aea4-1cd73af67b65;YesNo
+Show Electrical Symbol;8a8ddc00-6a96-4a04-ac49-4eb60d128612;YesNo
+Height;205d6c91-6790-4fe0-a618-83816846f6fb;Length
+UNSPSC Code;3028bbea-5f5c-4c76-b185-387edc94a097;Text
+Uniclass 1.4 Description;81d212bf-642c-492a-a1d3-bd16677557c7;Text
+NBS Reference Code;b0bd21e1-9cd6-4c06-a47d-fd4a0e6f76cf;Text
+Material main;2b8b42e3-63ef-49a3-8a81-7e6b24e66077;Text
+Isolation 50/60 Hz 1 min (kV r ms) (Ud);7c5c5127-3050-4194-b314-ab3c7f145fec;Text
+COBIe Type Category;1636142b-6901-4d8e-ab81-0670d03396c3;Text
+Protection index - Units in switchboard;63240155-98cd-4385-89f7-07ba92a2f4df;Text
+Panelling Colour;3568d743-3734-4640-82d2-807836213402;Material
+Availability;4ccabe9f-55e8-40ab-ae6f-5f8093414f3d;Text
+Product Guid;13cc92e8-3208-4a47-8b02-eceb4b38eb53;Text
+Clearance Top;712e09dc-aa7d-430a-9e67-0951ab1def90;Length
+Rated Current Range (Ir);5f1f25b0-0302-4754-80b1-9420dce3dce9;Text
+Installation instructions;d15eace4-2bc4-4ce3-a147-94d834ed8877;URL
+Rated Voltage (Ur);dd931e28-aa1b-44b3-ac9b-1a9e84af3e52;ElectricalPotential
+Depth;56242412-4266-4bf3-8cc5-a11c0cccc487;Length
+Instalation access;40eff06b-e3b1-4e3c-a26d-756536cec193;Text
+Youtube clip;1e5564c2-95d2-4f5b-99a2-02793c59b97b;URL
+Edition number;93a4f44f-8b10-4e94-8566-026464e00f6c;Integer
+Altitude;72c11217-3138-48ed-a9a4-b0fffc76965d;Text
+Climatic Restistance;079ebce2-12ea-4fd7-83b6-00980f7d2a04;Text
+Weight;f38e5949-debc-40d2-a58f-dab239502803;Mass
+Contact Schneider Electric For System Configuration;e0f08339-f28a-4226-b64e-7223912acf45;YesNo
+Region South America;f6f1d8c3-c2ca-4e45-9894-71e37401e522;Text
+OmniClass Description;ecaaf2f1-4f49-440a-96a5-0e26becfb15f;Text
+QR code;af8d8c28-d766-4ea1-946d-3adbd6e1cfcc;Text
+Show Clearance;f07de24b-40a1-46ca-b908-eead621b8a73;YesNo
+Environment (EMC);d7e93976-ee26-474d-a01f-0bea19175c66;Text
+Loss of service continuity classes (IEC 62271-200);cf1d9b35-1740-4710-862b-c069f0d9f3b4;Text
+IFC Classification;05e18b78-1a7c-42d0-914f-2461fa0328fa;Text
+Insualtion level 1.2/50 ?s (kV peak) (Up);6f1e57d5-3253-4a75-9a58-5f976ea59c5d;Text
+Gas Exhaus;967c47dc-15ca-498a-b627-8eced4909dbe;Text
+Function;e756df25-5be7-4028-9261-99b1939b5f12;Text
+И_Э_КлассификацияНагрузок;a3413727-1213-401f-8ff2-880522a42b91;LoadClassification
+И_Э_НоминальныйТок;b49f9cf9-9a95-444c-bfb3-44680e5c899e;Length
+И_С_ОбозначениеПрибора;361f8764-24b6-4158-9096-0f189021fb33;Text
+Maximum Flow Rate;e50a0509-b969-4af1-96fc-a15f9d80d5c1;PipingFlow
+Series;00725736-7356-407d-8c19-f9ee67ba8552;Text
+Nominal Pipe Size;27bb60cf-934e-433c-ac40-25216f1ca8ba;PipeSize
+Overall Width;aa8f2295-1384-4170-8f51-1e73b33721ca;Length
+Flow Rate;88949122-19d9-49b6-8552-e5bd8e3ddf79;PipingFlow
+Overall Length;9540b062-8ce8-4e2e-853c-604689e80e9a;Length
+Overall Height;241784b5-7cc7-4f34-a688-02d96f49c92e;Length
+Design Flow Rate;1504ee71-caeb-4bac-8557-2c7fa664d8af;PipingFlow
+Класс пожароопасности;8d8dab45-ac79-44f9-a747-d75b62e91b3d;Text
+Климатическая зона;8d26633a-daa2-432e-bf86-22f5a2dba237;Text
+Тип ПРА;90199d51-4f95-4383-8ce4-1241ca0562d2;Text
+Тип ИС;e0df79bb-a066-4735-86bd-361c99e5dec0;Text
+Класс Защиты;87b827ca-1083-47e0-aded-fa763dfbe758;Text
+ADSK_Количество фаз числовое;70b900b9-87fc-44bf-8c10-35fca4e76ed7;Integer
+ADSK_Энергоэффективность;5d92a298-6718-469d-87ea-2615aa57c235;ElectricalEfficacy
+Область использования;6a7fa619-5d29-4080-9231-790ba8914501;Text
+IP Class;76adcc41-db9c-408c-b36c-60e68ba80b2e;Text
+Блок аварийного питания;3c6896e4-3ff6-49a8-aad2-15409bb89780;YesNo
+Тип продукции;576a21f6-24e5-4d23-a69b-17e1d9dcf6fc;Text
+ADSK_Коэффициент мощности;e3c1a4b0-78c8-49f5-b3c7-01869252c30e;Number
+ADSK_Масса_Текст;a8832df7-0302-4a63-a6e1-47a01632b987;Text
+ADSK_Наименование краткое;f194bf60-b880-4217-b793-1e0c30dda5e9;Text
+Угол;4dc7c757-3e8c-4311-88b9-0cafc7dc5da1;Angle
+magiProductCode;2e8a1078-66ef-4733-95b5-21b01b6604d0;Text
+ADSK_Размер_Ширина;8f2e4f93-9472-4941-a65d-0ac468fd6a5d;Length
+Материал1;62bf696d-1e6f-4a63-9647-b12064b8d8b9;Material
+PN;28fd6808-a48c-4427-9e04-2967674e3843;PipingPressure
+Номинальный диаметр;3cacf9a0-5af0-432d-a133-8830658b975e;PipeSize
+Расход воды;fcf6f75f-7573-409a-b49c-100e24c4ade1;PipingFlow
+Рабочая температура;0bdbeb3b-81dd-47ad-a941-6b435637b4ee;Text
+Weight;3d028fd0-b1d7-460e-a4a8-35d5d9590a90;Mass
+Angle;4942cc5a-0098-4bf9-9c32-135a9b0d4a36;Angle
+Product code;8bd0bb65-d8c9-4336-9b3b-13b1c85a50d3;Integer
+Product Name;5102b873-5fab-45b7-a2d0-f83ddee8d345;Text
+Size;11fc0fda-45d6-4e99-b29f-22982e6fd54b;Text
+Входит в специю ЭОМ;1ad10145-2236-463e-88e4-974811000c0a;YesNo
+Принадлежность к разделу;a2bbcced-5fff-4719-a80c-8a93595b8827;Text
+Exhaust Stack Gas Temp;54c497d3-5af0-4e33-a409-6f20902f9609;HVACTemperature
+z Enclosure Base Offset Front;543942ce-f546-40c1-b3cc-04a93099f207;Length
+z Stub Up Right Depth;cdfde7cd-810e-4c29-9839-eae7d48e6f70;Length
+Exhaust Octave Band - 8000 Hz;09f8c7ef-83b6-43df-bf08-1eb50a3ccbe9;Number
+Radiator Selection;9d4b7a93-c043-4c80-81f0-525f21caea5c;Text
+Exhaust Octave Band - 2000 Hz;f5f44a67-1e97-4753-aa04-b9733cd4389c;Number
+z Center Exhaust Outlet Visible;f0c3fecb-6b33-4f28-91b0-0fe307b377e8;YesNo
+Octave Band - 63 Hz;f6a0af64-4ee3-466e-acd6-773e1eb04714;Number
+Octave Band - 125 Hz;c9eb6a6b-aae5-4c2e-8b5a-5e08d03d2450;Number
+z Clearance Length Sides;61517b7f-5fc1-4f6c-bc63-2bffcbb4d253;Length
+Fuel Consumption Rate at Full Load;9b80fa51-48a5-48e9-b5fe-490b53b4030f;PipingFlow
+z Control Box Height;5a2a8b40-b9ee-48df-9207-336a1358fefa;Length
+z Reference Length Side;ef7f5f41-17a9-4e53-9446-6d98f090e2d1;Length
+z Enclosure Error;a7a2a5f4-7d2d-4b13-9d76-556bdf4d605c;YesNo
+z Total Length;1374169d-14aa-4084-8f8e-5dffeebdf1f5;Length
+Exhaust Octave Band - 250 Hz;ff1bff62-f3dc-474c-b173-bcaa63c69336;Number
+Terminal Housing or Entrance Box Configuration;4501de43-f33c-457f-8e85-3527101bba0a;Text
+z Enclosure Base Offset Back;8ff5bac0-55f7-4e2d-9167-027b8fcd6cc9;Length
+z Fuel Tank Error;3fcde4b9-a41f-4900-bfff-6ed8665ca4a0;YesNo
+Sound Pressure Level;64fd6c2d-9139-4364-89d6-8fe4d5470832;Number
+z Stub Up Right Angle;6cf521bc-f41c-47dc-90af-e680cac5bfbc;Angle
+Emissions PM (g/hp-hr);5f558893-ca51-4532-908f-56f6f750619e;Number
+z Enclosure Weather Visible;69b7d319-8696-421f-9701-a8c2682f97f8;YesNo
+z Enclosure Back Side Offset;6784c0bb-7975-41f0-9b12-fd34588b878d;Length
+z Radiator Depth;0e55b6c1-050f-4506-a1f1-32bd7eb5ad27;Length
+z Vertical Offset;93c86406-e42e-42b5-9215-5deb15becabe;Length
+z Exhaust Connector Y1;5444da1e-7c07-4ee5-9315-f45fa281d4cd;Length
+z Alternator Error;61e337a3-75f8-4553-8c32-6ff79aa8e696;YesNo
+z Box Height Right;2667fa42-267f-4e21-bbc6-a3533ded93eb;Length
+Exhaust Octave Band - 63 Hz;46ad3ba0-224f-4e31-b7a4-ca91903d77d9;Number
+Provide Feedback;078f9aa5-6272-43e4-a652-4aac13039fc6;URL
+Exhaust Octave Band - 125 Hz;87330cfa-15ef-4f06-bf7e-57833a1c01a9;Number
+z Standard Air Cleaners are Visible;82241ea7-9496-49a2-b625-7e1d3f8b98f0;YesNo
+z Exhaust Connector X1;d075e279-63bd-4537-844d-466993146d89;Length
+z Fuel Tank Enclosure Offset;3ef64faf-efb9-4709-99db-cbfefb98f62e;Length
+Enclosure Model;5a13b1ca-8142-4041-baf1-cf1030daf37b;Text
+Exhaust Octave Band - 500 Hz;fb6d122b-77d1-4bb9-9baf-c3abfa909720;Number
+z Alternator Back Radius;4bef81c9-0d66-483e-9d47-7aaef32651f7;Length
+Product Page URL;c5f25d97-91ad-48c8-96e2-99eac6fbb3f1;URL
+z Enclosure Slant Offset Back;d61dae0c-737b-45b5-aff7-f362dc44850f;Length
+z Enclosure Back Height Offset;87e8818a-d187-4e91-8976-efe7a6fce073;Length
+Load Classification;be21298a-0d42-47e3-8c63-bc3a69ddcbfb;LoadClassification
+Engine Model;0b82696f-faa1-44a3-8cc2-8faa57c60d53;Text
+z Stub Up Right Width;479a586c-6193-45b1-9003-b3e84c40136f;Length
+Octave Band - 2000 Hz;4098152d-4703-4f00-8471-b4012b13170a;Number
+Sound Power Level;ef892e60-102b-4b12-a6aa-3f95428356f2;Number
+Product data url;0101d8bc-35b7-4410-a3e2-10d7ab0e8c40;URL
+z Stub Up Left Width;1056fa0c-d079-4982-867c-72e3143954e6;Length
+z Rail Length;2d347d3d-9e83-4f90-a26b-6575a51d0b94;Length
+z Fuel Tank Weight;def59019-4679-40f6-8f94-27fd42ddbf60;Force
+Exhaust Octave Band - 1000 Hz;86ee28f9-3938-4f42-8d8e-77e60439e54a;Number
+Heat Rejection to Aftercooler Circuit Coolant;9ce09f1c-0132-489a-a8ad-ddeedc6547e2;HVACHeatGain
+z Stub Up Left Depth;f21c9c87-bdf2-4063-8929-5aa36e3666cf;Length
+z Heavy Duty Air Cleaners are Visible;9ae796d8-fbf0-4e20-9533-a97e8df8d9e6;YesNo
+Emissions NOx (g/hp-hr);47664f0a-9271-4970-bd6e-21ebc4192c6e;Number
+z Enclosure Visible;4538228c-fe04-4b2c-9336-1874483bcaa3;YesNo
+z No Enclosure Visibility;36a2952c-daa8-485c-a151-a04bb3de51f6;YesNo
+z Radiator Width;549f0c94-1468-42ee-a79a-0ae1b39e9764;Length
+z Fuel Tank Length;86d70b40-025d-4096-b2e2-c102791928cd;Length
+Octave Band - 8000 Hz;5d1dd298-20fb-4b4c-9399-b12b2cdbe1ca;Number
+z Control Box Depth;979bcf1d-7282-49af-ad13-6e1c49e697f3;Length
+z Spring Isolators are Visible;50a5caa3-fbf7-4c34-a7eb-d1c3ca306fd9;YesNo
+z Radiator Height;41b8be10-95f9-4258-8bee-1fdfad6d5ee6;Length
+z Box Left Masking Region;77d1fed8-a30b-4efc-94ab-f67b1f64883f;YesNo
+z Enclosure Back Length;9f75b844-8c14-494b-a191-ff855cbfd4ca;Length
+z QuietSite Outlets Visible;3cd1a481-5f53-415f-afda-91a104cfa3f8;YesNo
+Family Version;a1d19198-cd55-449f-a930-281d78d8f48c;Text
+z Voltage Error;3bd6cfc7-ce0f-49bf-bc2b-a30ad3268460;YesNo
+Octave Band - 4000 Hz;3f9830d8-e914-4b46-b8ed-8d60c673a51c;Number
+Number of Poles;cec2e9cb-9151-4b72-a3a6-2ebda7e2b2d4;NumberOfPoles
+z Exhaust Connector Radius;717c06cc-0e3c-4085-ad46-04ef8c475cf9;Length
+Exhaust Gas Flow Rate;e38158fc-3c3a-4165-aa52-78c719eb04b0;HVACAirflow
+z Stup Up YL;c764b978-06d6-4bd8-911b-4e98b4328876;Length
+z Front of Box to Rail;c48912c8-0a66-463f-835f-22553a54e5a1;Length
+z Box Right is Visible;29c5908d-db6c-4c89-9e25-1959909ae9c1;YesNo
+Exhaust System Backpressure;e14147ee-4c4e-4d01-9441-5fbaf88c230c;HVACPressure
+Fuel Tank Part Type;7d8d913e-d18b-495f-8fef-e53c1c79cef4;Text
+z Type;96dab5d8-674d-4023-a317-a5dc5f2cf0ee;Integer
+z Alternator Cone Inner Radius;2f4166e8-e70f-44e7-8df2-58cd51aa9cb9;Length
+Octave Band - 250 Hz;391243ff-67e3-4d99-ada4-e7198e298785;Number
+z Reference Length Back;f92f17bb-81b0-4ad1-a6e2-110186ae03fa;Length
+Octave Band - 500 Hz;5efa2e27-86dc-4a99-ae89-648d83f8649a;Number
+Octave Band - 1000 Hz;bf7ea47a-ff8b-4fa5-b441-cc833ef4ef1c;Number
+z Stup Up YR;b47e1a48-7560-4561-8110-dbcd4bf4396f;Length
+Cooling Coil Air Pressure Drop;21c594f5-ffa6-4744-a300-989626a13672;HVACPressure
+z Stup Up ZL;2a53e979-c6ca-4424-bf4b-eba8598809ee;Length
+Copyright;7af6066b-00ef-449d-bc12-a70583c5bd01;Text
+Power Rating;685bb3d2-7442-4764-8a8b-2e16bec78147;ElectricalPower
+z Engine Length;37fc830c-a310-4b6f-8cdc-cd92bb1602a0;Length
+z Circuit Breaker Entrance Box Error;1d63779c-f024-4874-8415-be83e1c8371f;YesNo
+Exhaust Octave Band - 4000 Hz;0651587a-c3a4-4be3-9b0c-2306a083e1bc;Number
+z Exhaust Connector Y2;19a04af8-eba8-49c7-bf40-4b68f33bde24;Length
+z Accessory Error;815b3b43-5c6b-4ca7-ab05-df6156a18b80;YesNo
+z Stub Up Left Angle;03fe56b2-a8df-470b-aea0-1be18a01dbf3;Angle
+z Exhaust Connector X2;4e98fe1b-e52d-4626-a94c-23fdb19e8aa0;Length
+z Fuel Tank is Visible;bea397de-f187-4d81-b35c-8d37b043d3cc;YesNo
+Coolant Heater Wattage;739ca81b-5434-4eb7-b6e2-82f5150dc686;ElectricalWattage
+Frequency;353f987c-5499-45c3-8ea4-04f509f5c5b9;ElectricalFrequency
+z Alternator Cone Length;a26a9426-767f-4344-a148-d8cbaa80dad0;Length
+z Engine Width;e646a31e-eebb-4789-ac77-12364458c5e0;Length
+z Alternator Cone Outer Radius;2965f4dd-df6f-4c64-9964-e706dcb9bafd;Length
+z Enclosure Level 1 Visible;c7f4cea6-2045-4d66-8516-7ddcfce31f01;YesNo
+z Control Box Width;557eba75-373d-47b3-bf6b-8682d6740a78;Length
+z Alternator Radius;a593061f-0445-46f0-8344-6532367cc19d;Length
+Coolant Heater Voltage;8be3d690-142f-4807-89e5-e899af6d8c52;ElectricalPotential
+Emissions HC (g/hp-hr);b23702f9-896b-4ac5-9f4e-6815cea2b7c1;Number
+z Enclosure Front Length;e6252fde-e972-45a5-9128-f81a17da941e;Length
+Alternator Model;edb683b5-d4f5-42f7-bf0a-7ef9b3043e46;Text
+z Enclosure Slant Offset Front;c29b48eb-ee4a-4833-99e6-c5ebae035190;Length
+z Length to Front of Engine;6a9675d6-3d9c-4b4b-ba69-02a20b4276a6;Length
+Operating Weight;69bdf42d-6913-4831-8f89-2d11928e77e3;Force
+z Control Box Front is Visible;af544463-368f-491b-aceb-d3e2ed1a75ba;YesNo
+z Radiator Weight;d5991ef8-30ff-4f8f-8fcb-20ff3640e7f2;Force
+z Reference Length Front;a255e2b1-311e-49ac-9004-8a57679cd80f;Length
+z Exhaust Connector Z1;bc29527b-a7ed-4ab4-bb43-3ef79ed5a5b8;Length
+z Air Cleaner Offset;35f32db5-4bbc-4172-8cc7-7ed09415310f;Length
+Product Material;22a40417-e235-4bfd-84d0-4c0490abc373;Material
+z Error;c6e1b49f-8e63-44e3-b2a5-b2d7d763f977;YesNo
+z Enclosure Level 2 Visible;115ae925-e229-4c24-93cf-4bb75f9b470c;YesNo
+z Coolant Heater Voltage Error;a6359875-a2fc-4e91-b39e-b6cea6dca62e;YesNo
+z Enclosure not Visible;b7b16710-2da6-49b1-932b-a733665331a3;YesNo
+z Stup Up XL;c03cb1f2-6ec7-41ab-bdb8-511f9639ddca;Length
+Apparent Load Phase A;f2efc872-1242-4c43-a152-ae3621b7d584;ElectricalApparentPower
+z Box Height Left;92eeb2f1-fb67-41b5-9929-56817ff37a0c;Length
+Apparent Load Phase C;0f3d0c22-e74b-4fac-9d2a-8f7f5901d6c3;ElectricalApparentPower
+z Enclosure Clearance is Visible;56ef02c0-7b89-4448-a2d6-7b402135800b;YesNo
+z Control Box Height From Crank;e063405c-15ae-4414-97c8-cfa3e284603b;Length
+z Fuel Tank Height;c227c725-13fc-40f3-9d74-91257114e0ac;Length
+z Enclosure Weight;8a493d06-86c3-44ac-a9b9-fda3dc2a4b8b;Force
+z Alternator Length;862ccd0e-a7f8-474e-8b03-9f99449d2cd1;Length
+z Stub Up XR;6f17a7d5-7840-4f57-a4e0-6bc84e8bca4f;Length
+Heat Rejection to Jacket Water Coolant;a938c9f6-0b31-48ec-8494-ae67fb594e41;HVACHeatGain
+z Box Left is Visible;5f7d4853-e97b-49fa-a340-dfc3c8a02a13;YesNo
+z Stup Up ZR;1979cbfd-ec51-4156-9934-1f7ae1833620;Length
+Amperage;7b628836-f7ed-417f-9a76-f5dbc0471966;ElectricalCurrent
+Emissions CO (g/hp-hr);3d5fb86a-31f8-490a-a32a-81e47c9aee8d;Number
+z Alternator Weight;2a926201-4b01-4e10-b56a-864f77fd792f;Force
+Engine Lube Oil Capacity;3248641c-3bc6-4ad5-b24c-50f68f85e35b;PipingVolume
+z Exhaust Connector Z2;77d9667c-6719-4c87-a1f0-e926ecf875ff;Length
+Apparent Load Phase B;30ca8a0a-f27e-47c4-9a8f-ea0cd83075cd;ElectricalApparentPower
+Bus Voltage;421506d7-fcfc-4f9e-af8f-b4689976aeb3;ElectricalPotential
+z Box Right Masking Region;320f77e3-1447-4f62-ac0c-a033713f9863;YesNo
+Примечания;c3a92f4c-a74d-4c9e-8a27-369811a97586;Text
+Подкатегория спецификации;292afbb5-9d2a-4d1f-887a-dbafa96c5322;Text
+Классификация нагрузок;c384819c-d8ed-4434-b036-4464164a9cd7;LoadClassification
+Единицы измерения;27c9599d-44a0-4771-961b-38b8fe890186;Text
+URL разработчика;f310a517-49d3-42f0-87eb-79bedcc1cc13;URL
+Масса;fe07a222-f2bd-4940-90ad-45ae148c8b58;Number
+Степень защиты;5f710fa7-ca32-412b-8227-da51ef1ea66e;Text
+Код оборудования;a4f6994e-5389-4aa7-809b-e0bed566bb4e;Text
+Стоимость единицы;cbf80b2f-1e23-4bf7-a855-ccf915ea6ac0;Number
+GKS_Mep_Напряжение;5bb2b01e-5e98-4258-b84d-513b0d7fc97e;ElectricalPotential
+GKS_Mep_Масса;acc1d418-14a3-41c3-8360-d38c366ff595;Text
+Тип; марка; обозначение документа
+GKS_TH_Потребитель;cc86ea79-9de0-4af2-8b97-640c3eb72b50;Text
+GKS_Mep_Мощность;ddccd7e0-b7e0-4cc3-84b9-bcb383f43e80;ElectricalApparentPower
+GKS_Mep_Завод;8268d0f3-d89d-4fbf-ba97-a4259cebfe5c;Text
+GKS_Mep_Единицы;f9ad27d8-1368-4def-ab83-027baa0ee86a;Text
+GKS_El_Мощность номинальная;f57fd27e-7df5-4cce-8af6-61538c3459ef;ElectricalWattage
+Масса единицы; кг;84b976f0-7f3c-4350-84ef-d78955230db9
+GKS_Mep_Примечание;5ecf7ae1-f804-45e3-90a5-59196c00863f;Text
+GKS_El_Коэффициент мощности;10d1a64c-ee14-4620-a91d-24258d9a346a;Number
+Активная нагрузка;68459319-e5d1-4acb-8cc7-2a7e22613809;ElectricalPower
+Контактная информация;89c7dac8-a422-4af5-bfd6-6b1d1c5267c6;Text
+GKS_Mep_Обозначение;e929811d-4853-43f8-a55c-3942f71d4cba;Text
+Исключение элемента из спецификации;cedca1f0-94ef-4a64-bb34-b03f218d8c4b;YesNo
+GKS_Mep_Наименование;c0caf00e-4712-48a5-89e0-da4991b2063d;Text
+Единица измерения;21021ecd-604b-4b84-815a-7356ccb814f3;Text
+Код оборудования; изделия; материала
+Размер графического символа;d1777d06-d016-4658-ae03-90a4463cc383;Integer
+Примечание;87b8af79-8d3a-4dc8-b5bb-bf92935a10fb;Text
+Общий вид устройства;f9f6b425-177d-4a72-8619-72ac81b593ec;Image
+GKS_Mep_Задание;342569ee-468f-4bda-b248-0c8a11da6171;Text
+Раздел спецификации;3147b519-1b17-49f3-aee3-1664236cf565;Text
+GKS_Mep_Марка;5da436dd-a899-4bd9-add5-950859d3bd34;Text
+Позиция;20d7b4c3-f888-4744-9cd9-faa3bb6c65b4;Text
+Наименование и техническая характеристика;2b2ce05b-3bb2-4622-be6e-46a5925af4d7;Text
+GKS_Mep_Код оборудования;afd048fb-77ea-4aa1-a110-d6a90e51ee98;Text
+Степень защиты оболочки оборудования;727d9d7d-e6fc-465a-bdf5-bf5c97873c81;Text
+GKS_Mep_Число полюсов;5296e1a0-1261-4786-aa42-144c17442234;NumberOfPoles
+Номер листа размещения спецификации оборудования изделий и материалов;72a60394-2379-491e-a370-1c239e59b389;Number
+Завод изготовитель;7538af91-30d1-4ce2-887f-1d035a1d470e;Text
+Ссылка на интернет страницу изделия;a6f9572b-ba7e-4a8a-866e-de0bc9d69176;URL
+Номер листа размещения перечня элементов;d31c77f1-1933-4f3b-a46b-7ab60b75db9b;Text
+ADSK_Размер_Высота;da753fe3-ecfa-465b-9a2c-02f55d0c2ff1;Length
+Группирование в спецификации;86880280-b7d9-46ef-8509-3527e99e11aa;Text
+ADSK_Размер_Глубина;14e630a8-bc4f-4556-9094-647e8f323f08;Length
+ADSK_Размер_Радиус;f49bf488-e8a4-4517-ac59-e5ea2093350d;Length
+ADSK_Размер_Толщина;293f055d-6939-4611-87b7-9a50d0c1f50e;Length
+Qну_dT60;50699958-a589-40d1-922f-93b4dd3c70f9;HVACHeatingLoad
+Qну_dT70;1f849bef-8d89-4eb8-9a80-e9eed0f1b1b2;HVACHeatingLoad
+Тип отопительного прибора;a1975790-2014-4ada-9dfa-23d0e7be3f92;Text
+Qну_dT50;5f0c420a-567c-4c87-8214-c128ab4b1adf;HVACHeatingLoad
+URL fabricant;203ff791-38b1-490f-b4f5-7db1695ad708;URL
+CableEntriesAndInternalRoutingGlandPlateGaskets;5fa88ca9-a53e-4b64-8a46-93aea5efb5d9;Text
+ExpectedLife;c5da3f93-9cbe-47af-b36f-4a49f1d645d0;Text
+DurationUnit;e9eb9b41-81b5-4bcf-b504-15c672e1e3ba;Text
+NBSTypeID;6008921a-9e3e-44be-b0cc-d348242c27f1;Text
+Applications;1de38b2d-5e3d-4294-a3de-deb2dc04280c;Text
+InsulationStandardClass;44bbe6a8-2190-440f-a86c-ca9df53238cb;Text
+Features;6d8c393b-08a1-41b2-846b-efff65c289ad;Text
+ProductInformation;133c86a9-e00e-4550-937c-7220daed735b;URL
+Author;7bdbabdb-d3cb-4765-a0d0-9bf84249daf0;Text
+UsageCurrent;22eec27a-6ed5-4f34-b24c-ec6973233e51;Number
+PhaseAngle;a4da9aae-e403-4021-924d-cfd38ef51166;Angle
+CableEntriesAndInternalRoutingCableEntries;a4860232-7d90-4dfa-9fea-1744c1b81dcf;Text
+ModelNumber;bc7035fb-b46c-4211-b3f0-96e45b55db06;Text
+CaseMaterial;9a36094a-30a1-4bf2-ba47-06c1f345be27;Text
+ElectricalDeviceNominalPower;0a105ba2-db2b-409b-968c-231fe0649b23;Number
+CableEntriesAndInternalRoutingConductorTerminationSizeMinimum;19e89f9d-5fd1-4079-8c52-19e5570c5268;Text
+ManufacturerName;8cbb36e4-83db-4c85-b24e-6d0f0362f6af;Text
+EnclosureFinishMaterial;171e28e0-a0df-454c-8bed-a9d92d3b3579;Material
+Revision;d84be8cd-8e1e-4a3d-b98b-97f07c6ababb;Text
+EnvironmentalProductDeclaration;b6ed75cf-87bf-404e-b13c-e3eb11fa1964;Text
+IsMain;116368e6-cc31-48a4-8dd5-01b1cb8ac333;YesNo
+Doors;f2842c9a-901d-405d-9809-2a24a1658cbe;Text
+Material;ef6f1227-1780-49a2-8c51-ddb7829bde04;Text
+BIMObjectName;f4e5b5d8-4aab-4322-9095-f30f5c707fb2;Text
+SerialNumber;321f398c-0f47-4f35-a656-f91cb6cf2634;Text
+AccessClearanceFront;0ced9d79-015c-4268-af7c-991d946db811;Length
+WarrantyDurationLabor;4c6309a6-dd58-4d49-87e4-66e489f50265;Text
+NBSReference;4300e8b6-63e5-4d7a-98a6-c4efac911f40;Text
+SustainabilityPerformance;1fc56e0e-b7f4-4f74-9194-4b21d2bc520f;Text
+Name;eb1d69b9-0124-4f42-b766-d53a847d3d13;Text
+Version;e7dd15c9-9264-4eeb-ae8a-d468123cc70f;Text
+WarrantyDurationParts;696f6b97-0789-4238-ae01-13e9cb3ffdfd;Text
+IPRatingOptions;9f56fe5f-3b12-451c-85b7-0b3cd4106ae6;Text
+WarrantyDescription;be52fc0b-d184-4da7-8d7d-35448e50b1a8;Text
+IP_Code;54a56bf0-d626-4ecd-9dc4-9a3e820374e8;Text
+NumberOfOpenings;795bc4da-c1ef-4012-8878-bdeb361d2fcb;Integer
+WarrantyGuarantorParts;802bf0c8-f0b0-4a26-b8c6-174fa62b170a;Text
+NBSOfficeMasterTag;3556bc54-2c6a-48bc-b6c3-6463ac73b598;Text
+NBSDescription;f3b4c178-53c0-41d2-aa02-5e75ba8d7ceb;Text
+AccessibilityPerformance;13c4bada-0a60-403a-aa20-83ade513531b;Text
+IfcExportType;d94eb345-e7be-4a28-86f9-062c3344471f;Text
+NominalLength;829b0ea8-be62-4804-b4fe-553187314312;Length
+Purpose;9cb55115-aa96-4d06-ab83-cc731801d523;Text
+NumberOfPoles;8e24ab66-9ace-40f9-a234-9e1ba7836b2a;Integer
+AlertTextVisible;df5c4096-bb12-4bb3-a5d8-4416a36c2dba;YesNo
+IncomingCablingAccess;d2ebca81-a3ad-45b6-88b4-13522247e4dc;Text
+ReplacementCost;23ec3633-bf73-46e4-b47a-13c92593516b;Text
+PlinthMaterial;8dff6dc8-41f4-4341-b64f-55529cea90a0;Material
+Size;0db89500-3a9b-44ca-a7b2-1f93412f8ba7;Text
+CodePerformance;e30ffab0-250f-4810-a9e6-b32e4f69db2f;Text
+Grade;b0df8324-c25f-4236-adf5-7acc723e669b;Text
+HasProtectiveEarth;8a399437-b04b-41de-b5b3-7457576025f9;YesNo
+NumberOfDoors;6cde6697-9240-4880-a175-0080d7275c94;Integer
+AssetType;8cf99c66-6bc5-432c-832c-9725d11d8005;Text
+Uniclass2015Code;7ac9ed3e-7a70-4244-8b53-ac6ff7faa93c;Text
+Uniclass2015Version;12b50390-8018-4a0b-b053-50e4804ef4be;Text
+WarrantyStartDate;d82dbabe-1148-4380-98cd-b7810f1724f0;Text
+InternalSeparation;a8529aaf-df36-444a-bf50-e51c1c8b7ba0;Text
+CaseWeight;122a9a9a-6ea2-4dfa-9dc3-dadf36572cdf;Number
+BarCode;a3931ae2-7122-40ec-b283-8b6d5b4be2fa;Text
+Shape;d4a73e5f-1de4-4b18-a86c-396428f0d254;Text
+NominalCurrent;47680839-6520-4961-8dec-7aa33fc96025;Number
+WarrantyDurationUnit;7299bbbb-f51d-40ec-b409-773046c7ae1b;Text
+NBSNote;8f641f7c-8283-4bf8-ac56-9b01041a444b;Text
+OutgoingCablingAccess;9199f3b0-1362-4d3a-bc0c-93cfc80be4e4;Text
+Color;b0881b23-f3a1-418f-89f4-38ef9a2141b3;Text
+Category;501aa6a7-8597-48d0-ac30-d2858ce57060;Text
+NominalFrequencyRange;eafb73ea-f1cd-4661-8d20-d737c4af9be1;Text
+Constituents;a19db7d3-7392-4747-86dd-b880f033b77a;Text
+Finish;782da9c7-ddde-486f-9a3f-c39884747666;Text
+PhaseReference;bf9f166b-3f38-4e23-8c8c-1aca10671f02;Text
+NBSCertification;4f527e35-03e7-4a48-a585-3beae9db34a1;URL
+ManufacturerURL;94fb1143-2662-4d14-87d8-eb2e927b2e90;URL
+AccessClearanceVisible;9669aa04-cae5-461b-8bea-344932d64717;YesNo
+IfcExportAs;a1814d6e-98be-41cd-8b1b-bd809af0ac1b;Text
+HasPlinth;908bae60-5520-427b-8ae9-a62520ce35e4;YesNo
+NominalHeight;e7826a5e-5e47-4cc9-9f9d-d41a8aea3673;Length
+NominalWidth;77c438d5-bb8d-4c8f-ab45-e66d4059c3bd;Length
+AssetIdentifier;f013c594-9e0c-4428-a29e-390773fdf142;Text
+ModelReference;3abb6113-6a66-4be1-bf5e-fc7ab310530f;Text
+MechanicalProtectionMinimum;580e5416-1eb9-40d2-b45a-054961bbd401;Text
+TagNumber;207d239b-183e-456a-be1e-2b1a11354a78;Text
+NominalVoltage;17b43a7e-a9ee-4e7f-9a27-b4c3cbe8c664;Text
+InstallationDate;dc3fb4e9-0da2-42a4-b5d4-5fc024e1d5e2;Text
+Uniclass2015Title;78cd5e19-be24-424a-8636-61925078043c;Text
+WarrantyGuarantorLabor;4c6c16d8-a06d-40c8-91a7-86ac3ab6dc70;Text
+Warranty Infomation;da56d726-668f-4fcd-9c15-20fb04cc9c7b;URL
+InstallationDate;983a22a4-2df4-4166-a76c-31febd2a122f;Text
+Hot Water Radius;2687141d-8a1a-4b12-912b-ea268f7b4b3b;Length
+CreatedOn;963f7c8d-9958-40d2-8a2d-15d8655ede5e;Text
+Flow Rate;c0eb2b2b-a929-4d4d-b733-c086030875e3;Text
+Percentage of Recycled Content;0dc29f95-b31e-45b7-b63b-80eea3303c48;Number
+WarrantyDurationParts;afe5a4a7-5acd-4078-a43d-4375dcd7bfa0;Text
+Width;106f2a8b-3006-4864-aaf0-d07ea744b6f1;Length
+Uniclass2;0496c323-b81d-4fdd-aa91-523169ad9c58;Text
+WarrantyDuration;4430f930-65ab-401b-86a5-8f1f4f7e8683;Text
+Faucet Material;9328dea0-2201-4965-9e43-b70096fa48df;Material
+AccessibilityPerformance;54e645d1-9156-48fc-b6bf-ef2164736d6a;Text
+Ecojoy;21e62aaa-6560-4ba4-9cd6-6e65404cb102;YesNo
+Industry Standards;0d3cb8f4-81fa-4468-a0c1-3af13a17c255;Text
+_BIMspec_GUID;0bfa81c6-108e-480d-a460-df3d8921fc3c;Integer
+ReplacementCost;df055f86-b422-4828-85ca-af07e4515c8d;Text
+WarrantyStartDate;527c5041-fa44-40f5-bf68-f437d378a9e7;Text
+_distributed by;f39b8c95-4111-4acb-b96d-33636711a334;URL
+LEED Credit;14a4a813-1981-4853-a05c-0c553b8be5a1;Text
+Masterformat Title;4b44a374-e1fe-4b88-b7a5-91e3bb75b6f3;Text
+Cold Water Connection Diameter;e77badd3-e7ab-4573-8ad4-956a78e53729;Length
+Contact Grohe;09ed18b6-e246-46f1-91dd-e2b21856373b;Text
+Operating Pressure;5fa045dc-0ce5-4a02-a215-36204497ffd8;Text
+Masterformat Number;aa9db72e-e905-4e13-9c2e-098585f5f2ff;Text
+WarrantyDurationUnit;4ddbaff9-7d28-4e17-8359-e91b42ace833;Text
+WarrantyDurationLabor;97bece28-0f86-4d7a-ac6b-cf75e93f6a86;Text
+_current revision;1392868e-dddc-4251-b32e-d64b5070f4a2;Integer
+ModelNumber;f1844ad9-0ac6-4cd8-b0cc-506dbcd33171;Text
+Height;b78fbd96-3d99-4787-88a3-527e40588f9f;Length
+Mixing Leaver;fc9331e5-27cb-4804-8efe-f0f2cfe6c457;YesNo
+Cold Water Radius;136d9ee6-6d92-41a0-8029-176106ab91b9;Length
+WarrantyGuarantorLabor;6590fad4-fd08-409c-b668-4261c97cfe2c;Text
+SerialNumber;4c64de15-54ca-4a87-82db-12a1cf9f9cca;Number
+Name;4f6a3633-0d1e-492a-a7fe-abfa92a07f45;Text
+Hot Water Connection Diameter;a754f7f5-01e0-4fd4-942b-4a86c987344b;Length
+WarrantyGuarantorParts;1d8b0e52-bbf4-4288-b3c9-83f813c16fa3;Text
+Barcode;64180f9d-325c-4b63-90e6-b2934a7de99b;Number
+MaintenanceInformation;41ecd488-a5a3-4e93-8a2b-e2e6ff4e3c24;URL
+SpareParts;89db9940-df46-4dc4-bcf2-b9c85a284938;Text
+_created by;481d6572-130e-4b78-9027-cb834628236e;URL
+Length;f695fde0-3f94-4530-abf9-7fd0e5e88457;Length
+CreatedBy;ded79d11-441a-441f-b04a-78b31a618e68;Text
+AssetType;074c31be-f18e-4f48-9eb2-8dcb2e9be45e;Text
+_created date;ca3ca791-4a4a-433c-9002-77551675d959;Text
+Low Emitting Material;8ff8cdda-f8c3-4dc4-a3f8-70f82280de22;YesNo
+WarrantyDescription;d523c9de-8d3b-4228-903d-7237fe474d03;Text
+ExpectedLife;18a44b3a-3e82-41c4-8c26-7bf695cdb427;Integer
+Spare Parts List;c44a2cfd-a5f6-47bf-afd7-939c0c6ba935;URL
+ADA Compliant;c43e0f5b-1121-44a9-8f07-42cc88038dd8;YesNo
+TagNumber;e29d96a7-d76d-4246-a2aa-2108844e87a2;Number
+DurationUnit;28f191ca-798e-4967-a657-d42050589cb3;Text
+Left Clearance;c822fc19-eff0-482f-9077-bac67e79dd67;Length
+Door Width;e8c07cde-7c38-4eb3-9c0f-0f1c89398ed2;Length
+Depth;74782b4c-e0e9-4863-86c4-cbe3675495d1;Length
+Panel Coating;54c531dc-7392-4fb8-8a86-05f1f931ae49;Material
+Door;eebea9f6-6eda-412d-af80-a2a0192d2594;YesNo
+Panelling Colour;157aac45-b2ed-49e1-83d9-8c67358aab60;Material
+Show Clearance;39e98d6e-0333-49f7-825a-4d936838f465;YesNo
+Clearance Material;3b29dc53-bce6-4c8d-bb1c-10643a0a6be8;Material
+Frame;b873e157-60ca-41c9-8951-621ae52196c8;Material
+Right Clearance;0797e00e-e5d7-4add-acfb-6876f0ed7ebe;Length
+Width;8519c1cf-831f-4680-9177-29283900e20a;Length
+Height;84192c73-7357-4d60-b1c5-64842b09e596;Length
+Clearance Front;048bb2b9-3cf1-4003-aea3-33555ae29ad1;Length
+Controller;dd23baed-5907-4615-95c8-fbef4289b0ea;Text
+Rated Short-Time Current (Icw) 1s;561f2be8-4e06-423f-8f75-e0c9f673a459;Text
+Contact Schneider Electric For System Configuration;337f518a-9c48-4746-ad5f-c22b06dfbb95;YesNo
+Capacitor Type;250e5752-07aa-4e13-b148-80e7597096a6;Text
+Power losses;f1a2691d-08e1-4258-8ac4-12b0dd7d46dc;Text
+Cable Entry;9e769895-2f9f-451a-afa5-398ab3b4b08c;Text
+Degree of Protection;a1e321d8-5c6e-46fc-b4b0-c5e37b3198fb;Text
+Rated Impulse Voltage (Uimp);45d59e62-770c-4357-a718-8412d2ac7baa;Text
+Network Voltage;bca29bbf-9c1d-4fdc-8d62-396b354ff3a9;ElectricalPotential
+Detuned reactor;83553e94-2224-494c-98ca-8bd8f2232539;Text
+Rated Insulation Voltage (Ui);2ea02c61-e6b7-482d-8613-2186ec54e4f3;Text
+Show Clearance;9c70f54f-b6cd-401a-8ad8-b79135aaf3bf;YesNo
+THDU Total Harmonic distorsion of voltage;c6221f52-ce46-4e61-a803-29ac3a742182;Text
+Reference Standards;1e6da8ba-c4a5-4a98-aa1e-ccb41cc335d3;Text
+Access;1c5712be-e22e-417d-9815-1619c9009aac;Text
+Breaking capacity (Icc);e6cf70bf-527b-47bb-a9c3-042e60af5544;Text
+Installation;d12083fe-af25-429b-bfe6-42e9cadb75f5;Text
+Door type;3993b6a6-8b4d-42cb-bfa5-568275ce731d;Text
+Cubical Type;cd240de9-4ce5-40d6-bc1c-8da04372673e;Text
+Max permissible over current;a5adaf53-9fee-4f98-9047-1424c1eee9c6;Text
+Climatic Restistance;687f6b2c-e260-4a3b-8a5c-7c4ef5de3cf2;Text
+Environment (EMC);70ec5d67-0ab3-4ba7-9e50-20957537ab5a;Text
+Availability;64394557-87e8-468c-87c8-ae855b22db83;Text
+Clearance Material;d20f9590-ce11-46be-b8db-1fb713de0a62;Material
+Connection type;1802709f-5119-4ee2-8c8f-67e253038d42;Text
+Weight;3f752479-d857-4ed2-8749-af214d6b76fe;Mass
+Enclosure Mounting;49fa0119-5e4a-4565-8202-fe40ae608717;Text
+Door opening;1551feca-769b-4c98-a9d6-71123757f49c;Text
+Max permissible over voltage;09234ec7-9300-4fab-94c3-9a25fcdfec45;Text
+Gh/Sn Harmonic Pollution rate;4ea351ef-c7be-4777-9933-cd755e4c7fd4;Text
+Depth;35ee3661-a0c9-4d75-a9a6-d95d7275691d;Length
+Power (kVAr) Max;5dbab5c2-e5eb-4871-88b3-e03131c2dca4;Text
+Auxiliary supply;df6af2ea-0066-42bd-9cd1-5586e82aea47;Text
+Capacitance Tolerance;4294c0ca-b9a8-45fa-9408-3f3bb85ade95;Text
+Degree of mechanical resistance;d6115fe3-c44a-445f-b316-be87054505c8;Text
+Product data url;0d72a99b-a015-4c23-9ceb-1c8bbff1995a;URL
+Width;42d4cd54-d2fd-4ea0-b9e4-43c2c4c50710;Length
+Height;f2134b97-8fbd-4533-ae80-5f835c8e317c;Length
+Polluted;4d9ff7ab-9153-4d4d-8733-5cd18412b448;Text
+Door;abbddf28-da1e-40b6-939f-62e043dabe8e;Text
+Temperature;95e5ba27-f180-49fd-9b2c-529d499a9835;HVACTemperature
+Power (kVAr) Min;cd5f2acd-aa37-4f81-865b-e7ee898ff26c;Text
+Panelling Colour;58f8fbdd-0fa9-4d18-9386-54e71f79d729;Material
+Type of compensation;6b166de6-827c-426e-b7c2-c8071a17792b;Text
+Copyright ©;7e8769ab-5a5c-4707-a151-1d37ecd62382;Text
+Clearance Front;826b17af-3874-4757-b6b9-56947fee736f;Length
+THDI Total Harmonic distorsion of Current;079c112a-9dda-4e9c-9049-d53da3d3cbc8;Text
+Altitude;89fdc256-46f9-4a7e-8d08-e9a156658f42;Text
+Earthquake Withstand;67d1e7c4-6882-4271-899b-e0d8cf282f11;Text
+Rated Frequency;1d328a59-da94-48ce-8c89-06faf1299ff5;Text
+MC Piping Given Pressure Drop;fee8a9d7-4945-4497-8826-35421e65b9af;PipingPressure
+НазваниеПС;0682e1a3-a798-4e2b-b1d7-e6d53187ed11;Text
+Раздел проектирования;3d13c3af-ccaa-4739-8107-44d79e9a7b54;Text
+Вес устройства;ec527448-6a9c-4158-ba4a-e8ae6fc55e28;Text
+Артикул;faf841dd-79b5-4180-a141-7a23315ef7a7;Text
+URL разработчика;2c2ac483-268f-478a-a3e0-8a22e4dd842d;Text
+Единица измерения;acb6a61a-879c-49fd-acfe-c48fd9d99fa4;Text
+Префикс ПС;9a181781-e903-4992-a5a3-3363f2d016a1;Text
+Номер ГОСТ;a3deae81-01a9-4d7f-8a10-f6e50005d0c7;Text
+Угол;9253596b-f379-484b-a251-c47421e7def8;Angle
+Материал;edd1476e-bb2b-456e-9420-491ac6e9420a;Material
+Наружный диаметр;9eea759a-aa3d-4511-8d13-9d2ec9737efd;PipeSize
+Толщина;213f79af-bd35-4a08-86f4-0d9656f31dad;PipeSize
+Наружный диаметр труб.2;65397e7b-9a1b-44d0-98f9-bacf15922a4b;PipeSize
+Толщина стенки труб.1;e099da4f-d957-4bab-a9ff-d7664fc19f6c;PipeSize
+Наружный радиус труб.1;a132550b-1bae-44da-b070-f0d387963dce;PipeSize
+Толщина стенки труб.2;a959800d-e9ab-4fcc-bdd6-1f20dc805176;PipeSize
+Условный диаметр труб.2;80e8cc87-d0d9-4764-873b-9a4956a38619;PipeSize
+Условный радиус труб.1;a2e7e6a3-0991-49e1-9f56-bb6308613d91;PipeSize
+Наружный диаметр труб.1;1fbb4b99-2c12-44e4-bd8f-b09944be3976;PipeSize
+Условный радиус труб.2;853bc1cd-bd9d-48e2-8661-c31530fab391;PipeSize
+Наружный радиус труб.2;3b767314-ce43-4800-9ff6-da5e3dfff039;PipeSize
+Условный диаметр труб.1;438f4f5e-d4ea-43ac-8058-20686b8350ed;PipeSize
+Угол отчета;f889592b-0e4e-43b7-bf92-2e3125834e6b;Angle
+Наружный радиус труб.;96d20e9c-5191-4970-bbeb-5352c8b8ec3b;PipeSize
+Условный диаметр труб.;bdd3b48e-cc2a-49e8-b4d0-ffe866617e19;PipeSize
+Наружный диаметр труб.;9fd472ff-f83d-42b2-af89-24d5eb0568d5;PipeSize
+Условный радиус труб.;3a2e32ef-cc17-4a51-99dc-89665bdf50de;PipeSize
+Количество розеток;365f76b3-8307-42b7-8d1b-cbddfffdc7b4;Integer
+Масса;c8704442-640d-4407-98f8-91141259e3f0;Text
+Масса;116dc687-fe58-415b-829c-66fdaee0744f;Text
+GP_Масса;819be43b-ab72-442c-9bdb-067bf2086794;Number
+Масса единицы, кг;c3db8d3f-ba6e-44f2-85d1-b9d333da070c;Number
+Сайт разработчика;df7c83db-d09a-4122-a424-5a69934a6acf;URL
+Test Pressure;7b286d6f-0160-4e3d-a87d-7f15ace9e491;Text
+Flow Pressure Diagram;7712d8d6-3b89-45d6-b50b-8d173440e1e8;URL
+Temp - Hot Water Supply (Recommended);bae58354-e6a5-44af-b8f6-1c8adf39b8f5;Text
+Safety Stop;20dd653c-97e1-473d-8297-64f3594cf3c5;Text
+Flow Pressure;4ae9a805-fb56-4bd9-bcb3-cf0f78a11cad;Text
+Flow Rate - Hand Shower;1d911e8a-2368-4375-abdc-798ec81858ac;Text
+Flow Rate - Head Shower;5567ce8d-9bfc-493d-948f-326431b986a4;Text
+Material;57208242-c83b-4707-9869-c9bbddfd9e23;Material
+Temp - Hot Water Supply;1f05f560-095b-4d70-9b02-2d01c958e788;Text
+Длина для спецификации;b849079d-7db6-4345-be76-a9618bb2b9a0;Length
+Артикул;6dc9b1d7-069c-44a3-9589-64d8bdf72495;Length
+Падение давления воды;a43a474c-963a-4aef-9dec-50b651ba5800;PipingPressure
+Номер системы для спецификации;6742cd86-8c1a-402c-a0f3-34fde93639e9;Text
+Максимальный перепад давлений;377d97d2-6247-4580-8bad-3ea35218fb53;PipingPressure
+Коэффициент начала кавитации Z;d2fdda5e-1c5c-4dbe-8a27-98090a86a74c;Text
+Модель ширина по оси X;240065b3-ec80-4bb4-9700-708c0bfbc8a7;Length
+Модель длина по оси Y;11a0501f-859e-4fa2-8178-3983f199b71c;Length
+Таблица поиска наименование;e4a6a7a4-9062-4c55-bdd4-bb6effc03094;Text
+Таблица поиска артикул;4bc51e47-12a6-4455-be0f-650116c1e735;Text
+Таблица поиска;1a6af1c0-a758-4a1f-a4e5-05456c1d72ab;Text
+Цветовая температура;e5192229-07f6-47ea-a2ef-f544de5283ae;ColorTemperature
+Модель высота по оси Z;07c0b857-499b-46f5-a606-65f7b913ab96;Length
+Текст2;e17dc472-bc51-4911-b7de-89815363fe34;Text
+Текст1;cdad775f-c056-435a-a628-4ce750856409;Text
+Масштаб;03b75860-d6dd-410f-8a50-df76389bf77f;Number
+Специальность;d827ae68-7539-479b-a576-264c341a58d0;Text
+Отметка оси;a3b95da1-6c7e-479f-bb93-9a9a1e514bf1;Length
+Отметка низа;97a67623-7713-448c-9db6-55102203e5df;Length
+Отметка;0c269774-4110-4432-9063-30f964f93a16;Length
+Высота;05afd2e9-d142-4d28-b708-43e629dec23a;Length
+Ширина;5bee8e1a-2928-4464-ad47-2f05d24d8505;Length
+Сортировка в спецификации по принадлежности к метизам;b00c342e-21a4-424b-8c97-519f05abc8da;Integer
+Номинальный диаметр 1;c466c7fd-069a-46c1-9f29-171a3935db24;PipeSize
+Номинальный диаметр;92014a6b-4d09-4de0-9c15-7af60e3cb7d4;PipeSize
+Номинальное Давление;3ec34236-c6cd-4b3e-8679-fff71527374a;PipingPressure
+Номинальная мощность1;d67c9801-1b92-4513-9777-367d6b1fdf52;ElectricalPower
+Тип фильтра;aabe1bc0-6fee-48c2-95b4-1011ba97bb26;Text
+Свободный напор;879d43a6-1fdb-4277-a277-8d221199db8d;HVACPressure
+Частота вращения двигателя;683ef7e2-19b2-4066-b5cf-6362466da011;Text
+Расход воздуха;37b903b1-8fd6-4bf4-84e0-5551847da278;HVACAirflow
+Частота вращения;705b1b4a-dfe0-4150-b961-d50bd2de4599;Text
+Полная мощность1;2f491943-1e1d-4bd9-beff-b3ab8f414c08;ElectricalApparentPower
+Коэффициент мощности1;24c07561-ba10-43e9-a87c-84f3a881bf7b;Number
+Потеря давления калорифера;3683f5aa-3f4b-4bed-9aba-92f476087dbf;PipingPressure
+Сопротивление фильтра;8cf5857b-1784-4e7c-a5db-404437ecc944;Text
+Ток1;4392e0df-ab21-444c-bf4d-de598d005d9f;ElectricalCurrent
+УГО длина по оси Y;0f6fa7c2-826a-4908-92c1-cf1a22d1726b;Length
+УГО ширина по оси X;b4c3ad03-e6e2-47fe-9880-f8b0e5a5725f;Length
+Номер помещения;d0efb795-ce89-4a3c-a7f7-191acf6e5504;Text
+Высота установки для марки;7648d1cd-5b4d-48fc-9fc2-dcb2c1aa275d;Length
+Мощность;6f6a6a94-13ad-4946-ba66-fac6566f0033;HVACPower
+Толщина 1;736dabe1-ea07-4213-ba84-afe395de2820;PipeSize
+Тип, марка, обозначение документа, опросного листа;90214fe6-6311-44cc-be60-55b6a63c6418;Text
+Масса единицы, кг;9e2f55f6-15fe-4892-af03-4a0dc62bd468;Text
+Код оборудования, изделия, материала;bb4022c6-e79b-4540-959e-f9f851ebb1f8;Text
